@@ -81,6 +81,7 @@ pip install -r requirements.txt
 # Run notebooks
 jupyter notebook notebooks/
 
+```
 
 📊 Key Visuals
 
