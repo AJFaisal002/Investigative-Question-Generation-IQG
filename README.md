@@ -52,12 +52,12 @@ The pipeline follows a **four-stage workflow**:
 
 ## 🧠 Tech Stack
 
-- 🐍 **Python 3.10+**  
-- 🧩 **LangChain** — for LLM orchestration  
-- 🤗 **HuggingFace Transformers** — for Qwen model integration  
-- 🧮 **Qwen3-14B / Qwen3-4B Models**  
-- 📊 **Pandas, Matplotlib** — for analysis and visualization  
-- 📓 **Jupyter Notebook** — for experimentation and research documentation  
+-  **Python 3.10+**  
+-  **LangChain** — for LLM orchestration  
+-  **HuggingFace Transformers** — for Qwen model integration  
+-  **Qwen3-14B / Qwen3-4B Models**  
+-  **Pandas, Matplotlib** — for analysis and visualization  
+-  **Jupyter Notebook** — for experimentation and research documentation  
 
 ## 🚀 How to Run
 
