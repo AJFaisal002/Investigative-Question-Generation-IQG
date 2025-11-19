@@ -83,28 +83,15 @@ jupyter notebook notebooks/
 
 ```
 
-📊 Key Visuals
-
-Methodology diagrams (Fig. 1a & Fig. 1b)
-
-Model performance comparison
-
-Parameter sensitivity analysis
-
-
-🪶 License
-
-Licensed under the MIT License
-.
 
 👤 Author
 
 Adnan Faisal
 Department of Computer Science & Engineering
-Chittagong University of Engineering & Technology (CUET)
-📧 ajfaisal1208023@gmail.com
+Chittagong University of Engineering & Technology (CUET) 
+ 📧 ajfaisal1208023@gmail.com
 
 Shiti Chowdhury
 Department of Computer Science & Engineering
 Chittagong University of Engineering & Technology (CUET)
-📧 shitichowdhury21@gmail.com
+ 📧 shitichowdhury21@gmail.com
