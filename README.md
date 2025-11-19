@@ -86,8 +86,16 @@ jupyter notebook notebooks/
 
 👤 Author
 
-## Adnan Faisal Email: **ajfaisal1208023@gmail.com**
-## Shiti Chowdhury  Email: **shitichowdhury21@gmail.com**
-### Department of Computer Science & Engineering**
-### Chittagong University of Engineering & Technology (CUET)**
+## 👤 Authors
 
+## Adnan Faisal  
+**Department of Computer Science & Engineering**  
+Chittagong University of Engineering & Technology (CUET)  
+📧 **[ajfaisal1208023@gmail.com](mailto:ajfaisal1208023@gmail.com)**
+
+---
+
+## Shiti Chowdhury  
+**Department of Computer Science & Engineering**  
+Chittagong University of Engineering & Technology (CUET)  
+📧 **[shitichowdhury21@gmail.com](mailto:shitichowdhury21@gmail.com)**
