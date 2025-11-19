@@ -43,7 +43,7 @@ The pipeline follows a **four-stage workflow**:
 
 | Run ID | Model | Avg. Score | Notes |
 |--------|--------|-------------|--------|
-| `run10_qwen3_14B` | **Qwen3-14B-v5** | 🥇 **0.76** | Best consistency and topic coverage |
+| `**run10_qwen3_14B**` | **Qwen3-14B-v5** | 🥇 **0.76** | **Best consistency and topic coverage** |
 | `run7_qwen3_14B` | **Qwen3-14B-v3** | 🥈 **0.70** | Stable results |
 | `run8_qwen3_14B_top_p` | **Qwen3-14B-v3** | 🥉 **0.63** | Balanced, moderate variation |
 | `run4_qwen3_4B` | **Qwen3-4B-v3** | 0.55 | Good smaller model performance |
