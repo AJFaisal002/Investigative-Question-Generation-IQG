@@ -3,8 +3,6 @@
 A **LangChain-driven, multi-stage prompting framework** that systematically generates ranked investigative questions from news articles.  
 This framework evaluates **trustworthiness, bias, and factual accuracy**, combining structured prompts, Qwen-based LLMs, LangChain execution, and controlled decoding.
 
----
-
 ## 📁 Project Structure
 
 | Folder | Description |
@@ -13,8 +11,6 @@ This framework evaluates **trustworthiness, bias, and factual accuracy**, combin
 | **figures/** | Methodology and visualization images for the research paper |
 | **results/** | Evaluation scores, charts, and model comparison metrics |
 | **docs/** | Supplementary notes, references, and documentation |
-
----
 
 ## ⚙️ Methodology Overview
 
@@ -43,8 +39,6 @@ The pipeline follows a **four-stage workflow**:
 - Human/task-based scoring (coverage, coherence, novelty, bias detection)  
 - Comparative evaluation across all model runs  
 
----
-
 ## 🧩 Model Runs and Performance
 
 | Run ID | Model | Avg. Score | Notes |
@@ -55,7 +49,6 @@ The pipeline follows a **four-stage workflow**:
 | `run4_qwen3_4B` | **Qwen3-4B-v3** | 0.55 | Good smaller model performance |
 | `run6_qwen3_14B` | **Qwen3-14B-v1** | 0.48 | Early baseline version |
 
----
 
 ## 🧠 Tech Stack
 
@@ -65,8 +58,6 @@ The pipeline follows a **four-stage workflow**:
 - 🧮 **Qwen3-14B / Qwen3-4B Models**  
 - 📊 **Pandas, Matplotlib** — for analysis and visualization  
 - 📓 **Jupyter Notebook** — for experimentation and research documentation  
-
----
 
 ## 🚀 How to Run
 
@@ -83,17 +74,12 @@ jupyter notebook notebooks/
 
 ```
 
-
-👤 Author
-
 ## 👤 Authors
 
 ## Adnan Faisal  
 **Department of Computer Science & Engineering**  
 Chittagong University of Engineering & Technology (CUET)  
 📧 **[ajfaisal1208023@gmail.com](mailto:ajfaisal1208023@gmail.com)**
-
----
 
 ## Shiti Chowdhury  
 **Department of Computer Science & Engineering**  
