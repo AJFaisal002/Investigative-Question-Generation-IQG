@@ -43,7 +43,7 @@ The pipeline follows a **four-stage workflow**:
 
 | Run ID | Model | Avg. Score (Rectified) | Notes |
 |--------|--------|------------------------|-------|
-| **`CUET-QwQ-32B`** | **QwQ-32B** | 🥇 **0.215** | Strongest CUET run; robust reasoning |
+| **`CUET-QwQ-32B`** | **QwQ-32B** | 🥇 **0.215** | Strongest run; robust reasoning |
 | `CUET-qwen14B-v2` | Qwen3-14B | 🥈 **0.195** | Best Qwen-based configuration |
 | `CUET-DeepSeek-R1-Qwen-32B` | DeepSeek-R1 + Qwen-32B | 0.184 | Reasoning-oriented, stable |
 | `CUET-Mistral-Small-24B` | Mistral-Small-24B | 0.182 | Compact, topic-sensitive |
