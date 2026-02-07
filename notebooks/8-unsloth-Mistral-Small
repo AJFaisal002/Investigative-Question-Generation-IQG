@@ -1,0 +1,300 @@
+msmarco_v2.1_doc_04_420132660	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	Were any independent food historians, recipe chefs or food bloggers, or any other experts consulted or quoted in the article, and who is not listed, in order to verify accuracy?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Are there any other recipes that were not from the restaurant, or if any, how did the author get the historical documents if any or do they verify historical claims?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	Is the author of the article independent of bias or any specific to his own personal bias, if not the sources are all verified of
+msmarco_v2.1_doc_04_420132660	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Were all the sources for this article for the author, or the original, or the source of the source?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Is the information independently verified, did the author verify the information in the article, or the sources of this?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	How was the information obtained the author and the original author and the sources verified?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	Did the author independently verify the information? what was the author bias did the author have?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	What was the source of the author, did the author have their bias?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	What other information can be used to verify the source of other information to verify the author
+msmarco_v2.1_doc_04_420132660	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	What source should have been sourced if the original source was a source of the  original source?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	What specific scientific studies or clinical trials directly link instant noodles to health risks like cancer, stroke, or heart disease, and how are these studies cited in the article?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Are the listed health risks, such as cancer, based on the effects of single isolated ingredients in noodles, or are they on the effects of the whole food?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	Are there studies that do not find any links between instant noodles and these diseases?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Does the article acknowledge any potential biases or interests in the studies they cite, such as research funds from food or preservative manufactures?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Does the article include contradictory studies that question the findings?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	How many servings per year of instant noodles are considered a safe amount according to the CDC or WHO?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	Are there any long-term case control studies that monitor the health of people who consume instant noodles over years?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	How often the instant noodle is washed and how is it processed that it can last longer than the regular noodles?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	What are the chemical additives in the food or the plastic or the soup that can be dangerous?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	Does the article discuss the preservative ingredients in the noodles?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	Does the article provide evidence that Coca-Cola uses leaves to manufacture cocaine in the United States?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	What independent research or sources support the article's claims?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	Are there counterarguments or opposing viewpoints presented in the article?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Is the source of the Stepan Coca-Cola claim verifiable independently?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	When did the U.S. government allow Coca-Cola to import coca leaves?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	How is the Stepan Company  involved with Coca-Cola?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	Are there studies or sources cited to support the article's historical facts?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	Is the author's stance transparent or biased towards the article's conclusion.
+msmarco_v2.1_doc_08_300872161	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Does the article acknowledge U.S. government regulations on coca leaves?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	How does the author present the U.S. government's perspective?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	What is the evidence that a 4000-qubit quantum computer could theoretically crack Bitcoin encryption in seconds?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	What sources outside of the organization or by the author provide evidence for this claim?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	For whom the organization’s research been funded by a known quantum computing or blockchain company?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Does the article provide any quantitative data to back the claim that quantum computers exist in 2022?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Are there any opposing viewpoints or counterarguments that are left out of the article?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Does the article acknowledge the complexity of the elliptical curve cryptography as well?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	Does the author have any conflict of interest in making this claim?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	Does the article link to the original research or data?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Are the any of the experts mentioned in the article a cryptocurrency investor?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	Are there any technical experts featured by the article who is not mentioned on the side of the claim?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	Does the article provide evidence that each shoe has a drop of human blood?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Has Nike confirmed or denied blood was actually used?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	How did people react to the controversy on Twitter?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	What is the purpose of Nike suing MSCHF?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Is the blood source confirmed and verified to be FDA compliant?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Does the article mention the MSCHF's intent behind the shoe?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	Does the article provide other shoe’s cost details?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	Is MSCHF or Lil Nas X part of this controversial shoe?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Where are the people buying the shoes from?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	Does the article name the people who support this shoe?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	What is the source of the leaked screenshots of Hammer's alleged texts?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	How is the article's author Michelle Rennex connected to the industry?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	Is there any evidence or just allegations of sexual assault or cannibal fetishes?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Who are the ex-girlfriends who alledgedy provided the screenshots?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Have the original acconts been deleted by anyone?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Did the victim's provide a signed statement for police or an anonymous post?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	Is there an account of Hammer's side of the story or is it one-sided?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	Does the author have an expertise in legal affairs or is a tabloid culture?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Is there any mention of the source of the screenshots?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	How did the source of the story get the screenshots and why?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	Are any experts who dispute the claim that Momo is a hoax?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Has the author contacted experts in child online safety for verification?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	Does the article provide evidence from official YouTube?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	What are credible sources used as proof of the Momo Hoax's existence?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Does this article include opposing perspectives on what the YouTube policy on content moderation?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Are there evidence that the Momo is a real threat to children?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	What fact-checking measures were used by the publication before this was published?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	Does the article provide any expert analysis on  the history of online hoaxs?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Does the author cite any examples of other online urban legends?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	How does the article assess the reliability of anonymous sources on the internet?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	Are there documented controversies or public statements from social media pages that sparked the cancel culture?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Does the author provide any direct evidence that shows the movement is widespread or legitimate?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	Are representatives or people being quoted as speaking on behalf of the younger generation
+msmarco_v2.1_doc_25_501708725	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	How many people are behind the millennial support movement?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	What specific songs are Gen Z audiences criticizing and what was Eminem's response to the criticism?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Is there any evidence to support the fact that Eminem has made controversial songs that were controversial?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	What's the viewership breakdown of the article to see if it's pushing a certain narrative?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	Is there any mention of the artists' work throughout their whole career or some songs?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Is there a pattern of the author showing a bias or leaning to a certain generation?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	Where are the dates and times of the cancelation attempt in the article?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	Has the upcoming Pentagon UFO report been publicly released or is there a verified release date?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	What specific UFO reports have the US government or military previously released on military UFO sightings?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	How did the journalists verify the whistleblower’s claims?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	What is the specific name and background of the Pentagon's UFO program
+msmarco_v2.1_doc_25_502424913	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	What is the whistleblower’s expertise in the UFO field?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	What is the nature of the mandate for the upcoming UFO report?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	Are there other whistleblower experts besides the ones in the article?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	Are UFO sightings more recent trends or the same over many years?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	What does the US government currently state about UFO?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	What is the purpose of the reporter’s source and their funding?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	"Who were the primary investigators or sources that first reported on the ""Blue Whale challenge"", and were the original reports independently verified?"
+msmarco_v2.1_doc_34_2529216	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	What evidence supports the link between the Blue Whale challenge and reported suicides?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	Has the Blue Whale game
+msmarco_v2.1_doc_34_2529216	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Are there credible experts who dispute the truth behind claims and who has?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	What reporting techniques were used by the original reporters to the Blue Whale suicide game?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Has the BBC independently investigated the Russian chat rooms and social media posts for the Blue Whale?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	What were the evidence the reporters on the Blue Whale game to the original
+msmarco_v2.1_doc_34_2529216	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	What were the circumstances of Rina Palenkova's death and how were they initially reported?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Is the article the BBC's own investigation?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	What is the fact-checking process used by the BBC when verifying such stories?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	How did a former executive who spent over two months in jail while awaiting trial?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Were the only bail restrictions sufficient to beak
+msmarco_v2.1_doc_34_7751734	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	When and how many security cctv cameras were
+msmarco_v2.1_doc_34_7751734	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Were the legal restrictions
+msmarco_v2.1_doc_34_7751734	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	What were the specific conditions of Mr. Ghosn bail?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	What was the Japanese legal basis for the house arrest of Ghosn
+msmarco_v2.1_doc_34_7751734	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	Were there any irregularities or red flags in the Ghosn G
+msmarco_v2.1_doc_34_7751734	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	CCTV evidence at the scene was it sufficient to
+msmarco_v2.1_doc_34_7751734	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	How were his Ghosn's bail
+msmarco_v2.1_doc_34_7751734	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	How did he manage access to the money for
+msmarco_v2.1_doc_35_441326441	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	Has the study panel chair Dr. David Relman or his colleagues publicly criticized BuzzFeed News at any other time?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Who is the most critical of the nas report's findings and how is it related to the author?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	Was the microwave attack theory the only explanation? Did the article mention any other evidence?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Why can't the scientists be named in this article?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	What is the author's bias
+msmarco_v2.1_doc_35_441326441	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	What are the conflicts of interest the critical scientist is?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	Is the source criticizing the study of the microwave attack theory?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	How much time does the microwave at the panelist have a financial interest in a microwave?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Has the buzzed News or the nas reported that the microwave is at the study?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	What other possible critics where is the article mentioned?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	Where is the information on the number of other conservatorships and if they are verified by third parties.
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	How are the other similar conservaships handled differently in other US states.
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	What is the cost and time cost associated with the case.
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Who are the legal team and the judges in this case.
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	What is the time-line of the court case.
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Who is the other financial conservator and the company and what are the details.
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	What is current court order about what it says and the current status of the case.
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	How does it relate to other similar celebrity and financial cases.
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	What is the history of the conservator and who is the court.
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	What is the conservator and the legal team's qualification.
+msmarco_v2.1_doc_38_227081897	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	Does the article provide a link to a tiki-talk blackout
+msmarco_v2.1_doc_38_227081897	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Is there a citation for the death associated with the tiktok blackout challeng
+msmarco_v2.1_doc_38_227081897	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	What is the percentage of people who have died from partaking in the tiktok blackout challeng
+msmarco_v2.1_doc_38_227081897	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Are there any expert interviews or cited
+msmarco_v2.1_doc_38_227081897	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Does the article include evidence from a tiktac k
+msmarco_v2.1_doc_38_227081897	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Are there any other deaths associated with the tiktok blackout challenge
+msmarco_v2.1_doc_38_227081897	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	is there a statement from tiktac k about the death
+msmarco_v2.1_doc_38_227081897	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	Has the tiktac k ever been associated with a death.
+msmarco_v2.1_doc_38_227081897	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	has the tiktac been associated with the death
+msmarco_v2.1_doc_38_227081897	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	is the article  support of the black out challenge
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	Are there any ongoing investigations or updates on any of the individuals involved in the scandal after its initial prosecution?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Were all the people charged in the scandal actually wealth parents or were their associates also involved
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	How many of the 50 people charged were associated with the scandal or did all participate in the college admissions scheme
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Is there any evidence that parents who were not as wealthy may have been affected by the scandal
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Were other elite colleges also involved in the scheme, and how were they found out
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	5
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	How were the individuals in the case sentenced and what was the result on their college careers.
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	how were the individuals involved in the scandal recruited by Rick singer and why was he not charged
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	What were the penalties for the involved in the case against the individuals and the colleges.
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	What are the latest updates on the documentary
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	What is the source that funds the author Karen Asp and how does that information affect the article's bias?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Who are the experts cited in the article?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	What are the counterarguments to oxygen bar or the canned oxygen products?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	What are the possible side effects of the product?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	5.  Does the article provide any data how long the effects of inhaling the extra 20% last?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	5. Is there any mention of the reason for the author not wanting the author to use the product 6. 6. What does the article's editor have to say about the oxygen bubble and it?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	7. Does the artIcle 7. Does the arctile mention the 7. of th?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	What does the 8. 5.  Does the 5. Does the art
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	6. Do they have a 7..5. 6. What about their 5?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	Does the article mention that it is possible to overdose on oxygen.
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	First reported studies investigating how if cannabis cures cancer
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	What evidence contradicts the claims that weed is a cancer
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	Are there any conflicts of interest that should be disclosed by the
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Does the article provide any opposing experts who of opposing
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	If the article provides any counterarguments
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	article includes any data on the success
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	Were direct the specific to the
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	9. What are the success of to
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	does the article
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	How is the article
+msmarco_v2.1_doc_42_654618974	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	What specific cognitive biases in medical professionals interviewed were consulted for this article?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Were thee studies that support the medical journal
+msmarco_v2.1_doc_42_654618974	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	Were the studies that contradict the
+msmarco_v2.1_doc_42_654618974	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Any reference to alternative explanation
+msmarco_v2.1_doc_42_654618974	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Is conspiracy theories mentioned in this article
+msmarco_v2.1_doc_42_654618974	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Are the bias by the
+msmarco_v2.1_doc_42_654618974	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	Does the article contain
+msmarco_v2.1_doc_42_654618974	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	Does the author have
+msmarco_v2.1_doc_42_654618974	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Was the article
+msmarco_v2.1_doc_42_654618974	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	Do the cited experts
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	What independent research institution (e.g. the gating institute) evaluated the validity of the experiments?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	What are the qualifications of research team, their funding sources, and any conflicts of interest?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	What are the key difference between the data in the study and previous research?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Are there are any alternative theories or alternative methods mentioned?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	What are the ethical and legal concern of this study?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Is the brain still not consciousness or responsive to stimuli after four hours?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	What animal organs were used in the study and the health status of the animal?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	What are the cost to the research and any potential commercial interests?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	How will this research affect the brain death define or the ability to revive?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	Was the study ethical approved by an institutional review body and the public approval process?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	What is the source's name when reached the $900 million? - Citi - was not immediately accessible.
+msmarco_v2.1_doc_48_273997000	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	What is the next phase of s to $90 question to the author of the article if there is.
+msmarco_v2.1_doc_48_273997000	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	Who paid to the fine is and how is the $900 was wired?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	How $900 did the hedge funds
+msmarco_v2.1_doc_48_273997000	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	How the is $900 million for the end if the
+msmarco_v2.1_doc_48_273997000	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	What is the impact on the funds
+msmarco_v2.1_doc_48_273997000	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	What is the of the $900 as a
+msmarco_v2.1_doc_48_273997000	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	What is the impact on the of Ron
+msmarco_v2.1_doc_48_273997000	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	What is $900 million to the
+msmarco_v2.1_doc_48_273997000	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	What Citi's
+msmarco_v2.1_doc_48_515083157	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	What specific evidence did NASA scientists find that suggests the existence of a parallel universe?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Has NASA or the scientific community independently confirmed the research findings?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	What is the difference in theory behind this discovery between scientists and parallel universe?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	What is the source of the evidence to support this?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Were the scientists who discovered the evidence published before?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Have other scientific organizations or publications independently confirmed the results?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	What is the evidence that this is a parallel universe and not a different phenomenon?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	Are there experts who disagree with the results, if so?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	How did the evidence not fit into any known physical models?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	How was the public informed of this finding?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	What evidence has been discovered or identified that can be linked to the cause or the source of the Notre Dame fire at the time of the article's release?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	What specific details about the Notre Dame fire have been revealed, and are there any discrepancies in the accounts provided by the fire department?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	Has the French fire department identified the blaze as a natural, arson, or an accident?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Is the cause of the fire a result of the construction of the Cathedral roof?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Are there any known construction activities on the cathedral that may have triggered the fire?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Have there been any reports about the security measures of the previous reported to be in fire the Cathedral?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	Are there any reports of suspicious activity or sabotage within the Cathedral before the fire?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	Are there any reports of missing security or security failures at the Cathedral?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Are there any reports of the Cathedral being left unguarded or insufficiently guarded?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	Are there any other reports about the possibility of an act of sabotage, accident, or arson?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	What specific evidence supports the article's claims about Belle Delphine's background, including her school performance and her early ventures, and were these sourced from her or verified the author independently?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Is the article based on direct interviews with Belle Delphine, an anonymous source from the brand's followers, or a mix of both?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	What is the financial and reporting process behind the bathwater product, how was the price was settled?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	What is the brand's market demographic, what are the other successful brand's that target this demographic?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Does the article compare the article mention of Belle Delphine's history with other internet influencers who have had success in the past?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Does the article the other social media platforms beyond Instagram and TikTok that Belle Delphine is active on, and how they have influenced her rise to fame?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	What is the legal background of the product, if the business is regulated where are the product are shipped from where?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	How was the article or the product verified in the article, is there any third party verification for the business?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Has the article discussed the impact of her other business if the brand on the environment?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	Was a Belle Delphine's bathwater tested for safety, if the product was contaminated by any type of bacteria or harmful substance?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	What is the source of the evidence used to accuse Clark of the Twitter hack, and who verified it?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Were the two other defendants charged, Mason Sheppard and Nima Fazeli, also minors, or were they involved?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	Has the age of the mastermind, Clark, been verified independently by a second source?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Was there any money or other compensation paid to the 17-year-old by Twitter or social media investigators?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Are there any inconsistencies in the police reports or the details about the Florida teenager?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	What is the financial background of the other two suspects, Sheppard and Fazeli, and how wee they identifie?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	How has the security of the victimized bein, including Obama, Elon Musk, and Kanye West, been?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	Who are the victims in the UK and their social media impact?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Has the 17-year-old been convicted by a court or just charged, and if any?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	What is Clark’s background, including social media or other social media?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	Who are the key organizers behind the formation of the new European Super League, and what are their motivations for creating it?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Are the other football clubs outside the ESL consortium and its main team members not being consulted or excluded without being excluded?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	To what extent is this Super League being proposed to be an alternative to the UEFA Champions League?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Is the proposal a new league to replace the current UEFA Champions League structure?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Is the UEFA league being formed primarily for economic gain, to improve the bottom line for the participating clubs in the
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Does this development come as a surprise to the UEFA?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	What does the response to the formation of the league say about the state of the
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	How are the media's response to the formation of soccer leagues reflecting the
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Are any other major soccer leagues around the world likely be affected by this development?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	How will the ESL affect the existing UEFA Champions League and the
+msmarco_v2.1_doc_54_304836636	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	Does the article cite any recent studies or authoritative studies that prove the claim that crime rates will go down?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Is there any mention of the source of the benefits of cashless society such as
+msmarco_v2.1_doc_54_304836636	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	When was the article updated or edited last?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Is the expertise, academic credentials, and
+msmarco_v2.1_doc_54_304836636	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Are there no counterarguments or any oppositions to these?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	How are the benefits and logics supported?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	Does the article provide specific data on the
+msmarco_v2.1_doc_54_304836636	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	What has been the impact on the cost of the bank account?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Any data breach is mentioned in the text?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	Who are these experts?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	Does the article provide evidence that the movement is a legitimate grassroots effort, or an internet joke with a small following?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Are the conspiracy theories in the article based on any credible evidence, or are they purely satirical?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	Who funded or supports the movement, and is it done for satirical purposes or a personal gain?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Has the article or movement been investigated for accuracy or is it a work of fiction?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	What is the bird's real purpose according to the reporter, or does it have a serious purpose?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Is the CofC affected by the movement or is it just a passing fad.
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	Who was interviewed for the article, the CofC or the group?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	Have the bird movement been reported on by other outlets at the CofC, or is it only here?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Is the campus on board with the movement, or is it a few students?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	Does other students, or is it a joke to the movement?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	Is there enough evidence in support of accusations that Apple’s app store is a monopoly?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Has Epic games have a strong evidence against apple to prove apple app store a monopoly?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	Are there any reputable experts in support of epic suit against apple?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Is the evidence and legal points strong enough to prove apple is running monopoly by not allowing other payment gateways?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Does the article mention if epic is open to same suit against google play store?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	Is there an option to both eipc not to go to court?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	What does apple have against eipc game?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	Is the lawsuits going on in the right place and jurisdiction?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Does the author have any conflict of interest?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	Is the verve the right place for this and author the right person?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	Is Kathleen M. Zelman, who reviewed the information in the article, a registered nutritionist?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	How old is the data on this jackfruit article and when was the last time it was updated?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	What is the scientific name of jackfruit?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Does the article contains any source of conflict of interests?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Are the cited health benefits of jackfruit are backed by research?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	What is the shelf life of jackfruit?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	Where is the jackfruit article published?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	Has the author of the jackfruit article been published?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	Does the article contain advertisements or are there any other articles supporting this?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	What is the source of the information?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-Mistral-Small-Instruct-2409-v3	1	"What sources or experts were cited in the article to support the author's claim that the raid was a joke and a failed attempt to ""see"" the government secrets?"
+msmarco_v2.1_doc_58_748655897	CUET	CUET-Mistral-Small-Instruct-2409-v3	2	Does the article include any direct quotes from the actual raiders to gauge their true intent behind the event?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-Mistral-Small-Instruct-2409-v3	3	"What credible organizations were consulted after the fact, in order to investigate the true reasons for the sudden ""raid"" on a classified Air Force base?"
+msmarco_v2.1_doc_58_748655897	CUET	CUET-Mistral-Small-Instruct-2409-v3	4	Does the article include any evidence of a foreign government's involvement in the event, either as a perpetuator or a collaborator?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-Mistral-Small-Instruct-2409-v3	5	Were there any U.S. officials who were willing to speak to the media and what do they say about their intent or actions to stop the event?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-Mistral-Small-Instruct-2409-v3	6	What was the government's response to the event besides the removal of the sign for traffic?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-Mistral-Small-Instruct-2409-v3	7	"Who were the other ""conspiracy"" theorists besides Bob Lazar that the author has quoted?"
+msmarco_v2.1_doc_58_748655897	CUET	CUET-Mistral-Small-Instruct-2409-v3	8	"Why did the author choose the day of the ""raid"" to begin the article?"
+msmarco_v2.1_doc_58_748655897	CUET	CUET-Mistral-Small-Instruct-2409-v3	9	What other conspiracy theories about the raid were mentioned in the article?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-Mistral-Small-Instruct-2409-v3	10	Does the article provide a good counterargument to the author's negative spin?

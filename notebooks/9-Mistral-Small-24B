@@ -1,0 +1,300 @@
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What evidence supports the claim that Sam Panopoulos invented the Hawaiian pizza?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Are independent sources corroborating Panopoulos's claim?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Are there differing accounts or disputes regarding who first invented the pizza?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Did the author interview other experts or historians on this topic?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Does the article acknowledge any potential motivations for Panopoulos's claim?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Is the BuzzFeed reader post cited in the article representative of broader public opinion?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Are there any alternative explanations for the pizza's origins?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Is the author's background or potential biases mentioned in the article?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	How does this article handle the controversy surrounding Hawaiian pizza?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Are there any references to the historical context of pizza in Canada?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What specific studies support the claim that instant noodles are linked to stroke, diabetes, and cancer?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Who funded the studies linking instant noodles to health risks?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Does the article present opposing viewpoints from other experts?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Are there any conflicts of interest disclosed by the author or the studies cited?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	What is the specific mechanism by which TBHQ is suggested to cause cancer?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Are the health risks associated with TBHQ supported by a majority of scientific consensus?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Are there any regulatory bodies or health organizations that endorse the article's claims?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Does the article provide any statistical data to back up its claims?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Are instant noodles marketed differently in Japan compared to other countries?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	"How does the article define ""high doses"" of TBHQ in the context of food consumption?"
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What is the specific legal basis for Coca-Cola’s exemption from the U.S. law prohibiting coca leaf imports?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	What evidence supports the claim that coca leaves are safe and non-addictive in their natural form?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Does the article mention any conflicting perspectives from other experts or organizations?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Who funded the scientific studies cited for the health benefits of coca leaves?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Is there any disclosure of potential conflicts of interest for the author or NaturalNews.com?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Are there any recent updates or changes in the U.S. policy regarding coca leaf imports?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	What are the specific toxic chemicals used in the processing of coca leaves into cocaine?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	How does the article address the historical context of cocaine in Coca-Cola’s original formula?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Are there any documented cases of Coca-Cola’s coca leaf imports being used for illicit purposes?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	What are the views of centrist and right-wing perspectives on the Coca-Cola’s exemption policy?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What specific research studies or data support the claim that a 4,000 qubit quantum computer could crack Bitcoin's encryption in seconds?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Who funded or conducted the research cited in the article regarding quantum computing and Bitcoin encryption?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Are alternative viewpoints or experts who disagree with the potential threat of quantum computers to Bitcoin presented?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Does the article disclose any potential conflicts of interest among the quoted experts?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Are the quoted experts unbiased and have they made similar claims elsewhere?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	What is the credibility of the publication Decrypt?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Is there mention of the current state of quantum computing technology and its limitations?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Are any specific timeframes for the development of a 4,000 qubit quantum computer cited with evidence?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Does the article accurately represent the views of quantum computer developers who claim the risk is overstated?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Are any counterarguments or reassurances from Bitcoin developers or cryptographers included?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What is the source of the human blood used in the shoes?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Are the ethical implications of using human blood discussed?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Does the article present any alternative viewpoints or counterarguments?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	What are the legal grounds for Nike's lawsuit against MSCHF?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Are there any experts or organizations consulted for their opinions on this product?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	How was the collaboration between MSCHF and Lil Nas X facilitated?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Were there any regulatory approvals required for a product containing human blood?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Does the article compare this product to other controversial collaborations?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Are there any statements from MSCHF addressing the controversy?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Is the article's sensational tone justified by the facts presented?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What specific evidence is presented to support the allegations against Armie Hammer?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Are the screenshots and stories mentioned in the article independently verified?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Does the article include any statements from Armie Hammer’s legal team?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Are there expert opinions on the psychological aspects of alleged cannibal fetishism included?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Is the timeline of events and allegations clearly outlined in the article?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Are any alternative perspectives or counterarguments presented in the article?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Does the article address the potential legal implications of the allegations?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Is there any mention of the woman's identity mentioned in the article?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	How does the article address the issue of consent in the context of these allegations?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Are there any references to similar cases or precedents involving such allegations?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What specific evidence does the author provide to support the claim that the Momo Challenge is not real?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	What are the sources of the information that parents should be concerned about child predation on YouTube?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Does the author present any alternative views on the existence of the Momo Challenge?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	What data or studies support the assertion that kids are being scared by the Momo image?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Are the headlines cited in the article accurately representing the sources and context?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Are there any experts in internet culture or child safety quoted in the article?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Is the author affiliated with any organizations that might have a bias on this topic?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Does the article address the potential reasons why the Momo Challenge rumors persist?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Are there references to other similar hoaxes or internet myths to provide context?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Does the article provide any examples of real harm caused by similar online hoaxes?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What specific lyrics or actions by Eminem are considered 'offensive' by Gen Z?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Are the opinions of Gen Z represented by a diverse range of voices or just a few?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Who is Ben Cost and what is his background in music journalism or cultural commentary?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Does the article present any counterarguments from Gen Z who support Eminem?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	What data or evidence is provided to support the claims about Gen Z and millennials?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Are alternative perspectives from other generations, such as Baby Boomers, included?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Are there any right-wing viewpoints discussed or presented on this topic?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Does the article mention any potential conflicts of interest from the author or sources?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Are there quotes from Eminem or his representatives addressing the controversy?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	How does the article define 'cancel culture' and is this definition universally accepted?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	Has the Pentagon officially confirmed Elizondo's claim of leading the program?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	What is the exact content and conclusions of the upcoming report?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Are there other sources confirming Elizondo's statements?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	What is the method of data collection and analysis for the report?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	What specific evidence does the report provide for the'reality' of UFOs?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Are there any dissenting opinions from other government officials or experts?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	What are the potential political motivations behind releasing this report?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	How does the report address previous debunked UFO sightings?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Is the report peer-reviewed or endorsed by independent scientific bodies?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Does the report acknowledge and address the potential for misinterpretation of natural phenomena?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	"What are the sources of the initial reports linking the ""Blue Whale challenge"" to numerous deaths?"
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	"How many and which specific deaths were investigated and confirmed to be linked to the ""Blue Whale challenge""?"
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	"How have official law enforcement agencies responded to the claims about the ""Blue Whale challenge""?"
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Are there documented cases of the 50-day task list being actively distributed online?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	"What evidence do experts offer to counter the claim that the ""Blue Whale challenge"" is a hoax?"
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	"Are there any alternative explanations for Rina Palenkova's death beyond the ""Blue Whale challenge""?"
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	How does the BBC Trending section balance its reporting with potential biases? What is the official stance of the BBC on online challenges?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	"Are there any known motivations behind the spread of misinformation about the ""Blue Whale challenge""?"
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	"What are the reported age groups and demographics of those allegedly involved in the ""Blue Whale challenge""?"
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Are there any mentions of preventative measures or resources for those at risk of online challenges?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What specific evidence does the article provide about how Ghosn escaped?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Has the BBC verified the details of Ghosn's escape with independent sources?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Are alternative theories or explanations for Ghosn's escape presented?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	What is the BBC's past coverage of Ghosn and Nissan's corporate scandal?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Are there any statements or perspectives from Japanese authorities included?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Has the BBC sought input from experts on Japanese legal procedures?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Are there any disclosures of potential conflicts of interest within the article?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Does the article address the legality of Ghosn's escape from a Japanese perspective?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Are any centrist or right-wing viewpoints represented in the article?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Is the language used in the article sensational or biased?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What specific evidence supports the claim that microwaves caused Havana Syndrome?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Who funded the cited studies on microwave effects and Havana Syndrome?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Are alternative theories or expert opinions presented in the article?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	What specific microwaves effects were cited and how do they align with symptoms?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	What is the background and expertise of the critics quoted in the article?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	What is the background and expertise of the scientists who supported the microwave theory?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Are potential conflicts of interest disclosed for any involved parties?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Does the article address the plausibility of other potential causes?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Is there any mention of past similar incidents or syndromes?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	How does the article’s tone and language compare to other reports on Havana Syndrome?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What are the specific legal grounds for Britney Spears' conservatorship?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Who appointed Jamie Spears as conservator and what evidence was presented?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Are there alternative perspectives from law experts or legal scholars presented?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Is Jamie Spears' side of the story or his defense presented in the article?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	What are the specific details of Britney Spears' financial and career management?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Were any mental health professionals consulted for their views on Britney's capacity?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Are there any documented instances of Britney Spears expressing desire to end conservatorship before 2021?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Does the article disclose any potential conflicts of interest among involved parties?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	How does the article handle the documentary’s accusations of misogyny in the media?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Are there any attempts made to verify the claims of Britney's lawyers and the ACLU?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What specific evidence supports the claim that the 10-year-old girl died from the Blackout Challenge?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Are there any alternative explanations for the girl's death mentioned in the article?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Did the author interview experts in child safety or digital media to provide context?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	What is the source of the information about the second child fighting for their life?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Are there any counterarguments or differing viewpoints presented regarding TikTok's safety?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Does the article cite any studies or data on the prevalence of dangerous challenges on TikTok?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Is the author affiliated with any organizations advocating for stricter regulation of social media?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Are there any links to primary sources or official statements from TikTok provided?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	How does the article address the responsibility of parents and guardians in monitoring children's online activities?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Does the article discuss any potential benefits of TikTok for children or educational uses?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What evidence supports the claim that Operation Varsity Blues is the largest admission scandal ever prosecuted?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	What are the specific charges and sentences for the individuals mentioned?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Were any experts consulted by the author to provide context or analysis?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	How does the article address the defense strategies of the accused parties?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Are there any sources from the right-wing perspective included?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	What was the process by which Rick Singer was caught?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Are there any dissenting opinions about the scandal's impact or handling?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Is the author affiliated with any organization that could influence the narrative?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Are there any data points or statistics used to quantify the scandal's extent?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Are any long-term impacts on the college admissions system discussed?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What specific studies or evidence does the article cite to support the health claims of recreational oxygen therapy?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Are there any experts cited who are against or skeptical of oxygen bars?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Who funded the studies or research mentioned in the article?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Does the article mention any potential risks or side effects of using recreational oxygen therapy?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Are there any clinical trials or scientific reviews referenced to support the claims?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Does the article present any counterarguments or alternative viewpoints?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Are there any conflicts of interest disclosed for the author or experts quoted?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Has the effectiveness of recreational oxygen therapy been tested in controlled environments?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Does the article compare recreational oxygen therapy to medical-grade oxygen treatments?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Are there any references to regulatory bodies or guidelines on the use of recreational oxygen therapy?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What scientific evidence is presented to support the claim that cannabis can cure cancer?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Are the anecdotal accounts of cannabis curing cancer verified by independent medical experts?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Is the methodology of Dennis Hill’s and Kelly Hauf’s treatment plans detailed and evidence-based?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Are there any studies or clinical trials referenced that support cannabis as a cure for cancer?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Why does the article focus primarily on anecdotal evidence rather than clinical data?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	What potential conflicts of interest are there, given the source is GreenState, a marijuana advocacy site?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Are alternative expert opinions, including those skeptical of cannabis as a cure, presented in the article?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Does the article discuss any potential risks or side effects of using cannabis to treat cancer?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Are there any counterarguments or scientific dissent presented regarding cannabis and cancer?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	What do other reputable medical organizations say about cannabis as a cancer treatment?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What are the scientific studies cited in the article to support the explanation of the Mandela Effect?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	What is Timothy J. Legg's, Ph.D., CRNP, expertise in the context of the article?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Are there alternative explanations for the Mandela Effect presented?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Does the article mention or reference any experts who disagree with the primary explanation?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	What is the source of Fiona Broome's claim about Nelson Mandela?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Are there any statistical data or studies on the prevalence of the Mandela Effect?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Is there mention of historical examples of false memories before the Mandela Effect?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Does the article provide any counterarguments to the presented explanation?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Are potential conflicts of interest disclosed related to the authors or reviewers?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Is there a discussion on how to reduce or avoid false memories?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What are the specific ethical and philosophical debates sparked by this research?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	How did the researchers ensure that the pig brains were indeed dead before the experiment began?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Are there any conflicts of interest that the researchers disclosed?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	What specific cellular functions were restored in the pig brains?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	How does the BrainEx system compare to other existing technologies for preserving brain tissue?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	What is the scientific consensus on the definition of brain death, and how does this study align or conflict with it?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Are there any alternative interpretations of the results presented in the study?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	What regulatory and ethical frameworks govern research on brain revival in humans?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Were any animal welfare concerns considered in the acquisition of pig brains from a food processing plant?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	How do the researchers address the potential for this technology to be misused or abused?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What steps has Citibank taken to prevent similar errors in the future?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	"What is the official definition of ""clerical error"" used by Citibank in this context?"
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	What specific protocols were breached leading to the error?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Are there any internal investigations or audits mentioned?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	What are the legal grounds for the creditors refusing to return the funds?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Were there any whistleblower disclosures or internal warnings preceding the incident?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	How does Citibank's response compare to similar incidents in the past?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	What is the political or economic impact on the region where Citibank operates?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	What are the specific roles of the mentioned hedge funds in this case?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	What is the timeline of events leading up to the discovery of the error?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What specific scientific evidence supports NASA scientists' claim of a parallel universe?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Who are the researchers involved in the study and what are their credentials?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Are there alternative explanations for the observed particles?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Was the research peer-reviewed, and if so, how was it received by the scientific community?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Does the article present alternative viewpoints from scientists who disagree?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Are there potential conflicts of interest among the researchers or funding sources?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Is the data from the experiment publicly available for verification?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	How does this claim align with current theories in particle physics and cosmology?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	What is the methodology used to detect the anomalous cosmic ray particles?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Is the claim supported by other independent experiments or observations?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What are the official statements from French authorities regarding the fire's cause?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	What evidence has been presented to support the existing theories about the cause?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Are any experts in fire investigation or architecture cited in the article?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Have any alternative theories about the fire's origin been mentioned?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	What is the source of the video footage shown in the article?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Are there any updates or new findings since the publication of the article?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	How does this article's timeline of events align with those from other reliable sources?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Do any right-wing or centrist sources offer differing viewpoints on the cause of the fire?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Are there any potential conflicts of interest in the reporting or sources cited?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	How does the article address the possibility of arson or other human factors?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	Who is Mariel Loveland and what are her credentials?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	What is the source of the information regarding Belle Delphine's past, specifically that she was a student and started hustling at age 13?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	How did YouTube and Mariel Loveland discover the story about Belle Delphine?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Are there alternative perspectives or expert opinions on Belle Delphine's rise to fame?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Are any of the statements made by Belle Delphine independently verified?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Does the article address any potential controversies or ethical issues surrounding Belle Delphine's business ventures?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	What are the motivations behind the article's publication by YouTube?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Has Belle Delphine or her representatives had an opportunity to respond to any criticisms?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	What are the methods used by the author to gather information on Belle Delphine's past and current activities?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Are there any potential conflicts of interest or biases in the article?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What specific evidence was presented by authorities to support Clark's arrest as the'mastermind'?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Has the New York Times independently verified the evidence presented by authorities?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Are there any defense statements or lawyer quotes from Clark’s legal team included in the article?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	What were the motivations and methods behind the hack, according to the authorities?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Are there any conflicting reports or alternative theories about the hack from other sources?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Were any other suspects or co-conspirators considered or identified by the authorities?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	How do experts in cybersecurity evaluate the complexity and sophistication of the hack?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Is there mention of any previous hacking incidents involving the same individuals?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Does the article include any counterarguments or alternative explanations presented by other experts?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Are there any disclosed potential conflicts of interest from the New York Times or the authors?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What evidence supports the claim that the Super League is driven by money?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Are alternative perspectives on the league's formation presented?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	What are the potential financial and competitive implications for non-participating teams?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Does the author have any financial ties to the teams or league involved?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Are there any references to the legal or regulatory challenges that might arise?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Is there a link to the official statement by the European Super League?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Are there experts or analysts who disagree with the author's views?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	How does the author explain the potential benefits of the Super League?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Are any historical examples of similar breakaway leagues and their outcomes discussed?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	What is the potential impact on local soccer leagues in the countries involved?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What evidence supports the claim that a cashless society will lower crime rates?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Are any specific examples of countries or regions currently moving towards a cashless society mentioned?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	What data is cited to support the claim of reduced money laundering in a cashless society?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Are alternative viewpoints, such as those from right-wing or centrist perspectives, presented and addressed?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Are there experts quoted who oppose the transition to a cashless society?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	What are the potential logistical challenges mentioned for transitioning to a cashless society?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	How does the article address the issue of financial inclusion for those without access to digital banking?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Is there a discussion on the potential impact on businesses, especially small businesses, that rely on cash transactions?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Are the benefits and disadvantages of a cashless society backed by evidence from peer-reviewed studies?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Is there a disclosure of any conflicts of interest or funding sources for the authors or the publication?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	"What specific evidence does the ""Birds Aren't Real"" movement provide to support their claims?"
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Does the article disclose any potential conflicts of interest for the movement's leader?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Why is the article's author, Reese Walker, interested in this topic?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	"Are there experts or scientists who refute the ""Birds Aren't Real"" theory?"
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	How did the author verify the claims made by the movement's leader?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	What is the author's stance on the conspiracy theory presented?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	What is the College of Charleston's official response to this movement?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Are there any counterarguments or alternative explanations presented?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Are there any links or references to primary sources?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	How does the movement's leader explain the perceived increase in bird sightings?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What evidence does Epic Games present to support the claim of Apple's monopoly?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	What specific App Store guidelines did Epic Games violate?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Does the article include Apple's response to the lawsuit?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Are any legal experts quoted to provide context on the case?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Are there any other cases similar to this one involving Apple?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	What are the potential impacts on consumers and developers if Epic wins?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Does the article acknowledge any benefits of Apple’s App Store policies?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	Are there any expert opinions presented that counter Epic's claims?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	What data or analysis is provided to substantiate the claim of a multibillion-dollar market?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Is the article's author, Nick Statt, transparent about any potential conflicts of interest?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	Who is Kathleen M. Zelman and what is her background in nutrition?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	What data sources are used to determine jackfruit's nutrient content?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Are there any studies cited to support the health benefits of jackfruit?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	Does the article mention any potential drawbacks or side effects of consuming jackfruit?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Is the information presented consistent with other reliable sources?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Is there a balanced perspective that includes both benefits and potential negatives?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Are alternative views or expert opinions on jackfruit included?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	What is the motivation behind the timing of the article’s publication?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	How does the article handle any potential conflicts of interest?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Is there any information on the environmental impact of jackfruit farming?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	1	What evidence does the author present to support the claim that the Area 51 raid was ineffective for spotting aliens or UFOs?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	2	Has the author, Sarah Scole, written on similar topics before? If so, what is her typical viewpoint?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	3	Are any experts in UFO research or Area 51 quoted in the article to provide perspective?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	4	What is the author's affiliation with WIRED, and does it influence their reporting?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	5	Are there any counterarguments or alternative viewpoints presented about the efficacy of the raid?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	6	Does the article mention any scientific methods or studies related to alien or UFO sightings?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	7	Does the article reference any previous attempts to access or investigate Area 51?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	8	How does WIRED's editorial stance on conspiracy theories and UFOs affect this article?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	9	Are there instances where the author acknowledges the potential for legitimate UFO sightings?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/unsloth/Mistral-Small-24B	10	Does the article include any interviews with participants of the raid to gauge their motivations?

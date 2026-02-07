@@ -1,0 +1,300 @@
+msmarco_v2.1_doc_04_420132660	CUET	CUET-qwen4B-v2	1	What is the article's main claim about the origin of Hawaiian pizza?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-qwen4B-v2	2	Who is Sam Panopoulos, and what is his connection to the pizza's origin?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-qwen4B-v2	3	What evidence does the article provide to support the Canadian origin claim?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-qwen4B-v2	4	Are there alternative explanations or counter-narratives presented?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-qwen4B-v2	5	What is the historical context of pizza in North America?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-qwen4B-v2	6	How does the article address the cultural significance of Hawaiian pizza?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-qwen4B-v2	7	What is the author's perspective on the pizza's divisive nature?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-qwen4B-v2	8	Are there any potential conflicts of interest or biases in the article's presentation?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-qwen4B-v2	9	What is the article's stance on the pizza's popularity in the U.S. and Canada?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-qwen4B-v2	10	Does the article acknowledge any counterarguments or opposing viewpoints?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-qwen4B-v2	1	What studies support the link between instant noodles and cancer?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-qwen4B-v2	2	Who funded the research on TBHQ and cancer?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-qwen4B-v2	3	Are alternative expert opinions presented in the article?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-qwen4B-v2	4	Is the role of TBHQ in food industry clearly explained?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-qwen4B-v2	5	Does the article provide data on TBHQ exposure levels?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-qwen4B-v2	6	Are potential conflicts of interest of the authors disclosed?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-qwen4B-v2	7	Are there counterarguments about the health risks of instant noodles?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-qwen4B-v2	8	Does the article mention the difference between Japanese Ramen and instant noodles?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-qwen4B-v2	9	Are the health claims consistent with other dietary guidelines?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-qwen4B-v2	10	Are the sources of TBHQ in instant noodles clearly cited?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-qwen4B-v2	1	What is the source of the article's claim about Coca-Cola importing coca leaves?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-qwen4B-v2	2	What research or evidence supports the assertion that coca leaves are non-addictive in their natural form?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-qwen4B-v2	3	Are there alternative viewpoints or expert opinions presented in the article?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-qwen4B-v2	4	What is the potential conflict of interest of the author, Mike Adams, as the editor of NaturalNews.com?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-qwen4B-v2	5	Does the article provide any factual inaccuracies or omissions regarding the legal status of coca leaves in the U.S.?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-qwen4B-v2	6	How does the article address the U.S. government's stance on coca leaf eradication policies?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-qwen4B-v2	7	What is the historical context of Coca-Cola's use of coca leaves in its original formula?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-qwen4B-v2	8	Are there any potential biases in the article's portrayal of the Andean governments' response to U.S. policies?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-qwen4B-v2	9	Does the article correctly attribute the ban on cocaine imports to the Jones-Miller Act?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-qwen4B-v2	10	What is the article's perspective on the role of Coca-Cola in the context of U.S. drug policy?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-qwen4B-v2	1	What research supports the claim that quantum computers could crack Bitcoin?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-qwen4B-v2	2	Who funded the studies on quantum computing and Bitcoin encryption?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-qwen4B-v2	3	Are alternative expert opinions presented on the timeline for quantum computers?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-qwen4B-v2	4	Is the technical accuracy of the elliptic curve discrete logarithm p. explanation clear?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-qwen4B-v2	5	Does the article provide sources for the 4,000 qubit estimate?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-qwen4B-v2	6	Are potential conflicts of interest among the cited experts disclosed?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-qwen4B-v2	7	Are there counterarguments from the cryptocurrency community?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-qwen4B-v2	8	Does the article explain the difference between classical and quantum computing in this context?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-qwen4B-v2	9	Are the risks to Bitcoin's security fully discussed?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-qwen4B-v2	10	Are the political or economic implications of quantum computing on Bitcoin addressed?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-qwen4B-v2	1	What is the source of the claim that the shoes contain human blood?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-qwen4B-v2	2	Does the article disclose any potential conflicts of interest related to the collaboration?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-qwen4B-v2	3	Are there alternative interpretations of the product’s design elements?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-qwen4B-v2	4	How does Nike’s stance on the shoes compare to MSCHF’s?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-qwen4B-v2	5	Is the product’s pricing justified by its unique features?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-qwen4B-v2	6	Are the legal implications of the collaboration detailed?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-qwen4B-v2	7	What is the historical context of MSCHF’s previous products?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-qwen4B-v2	8	Does the article present any counterarguments from Nike?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-qwen4B-v2	9	Are the health risks of the human blood in the shoes addressed?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-qwen4B-v2	10	Is the product’s limited edition status explained in detail?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-qwen4B-v2	1	What is the source of the allegations against Armie Hammer?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-qwen4B-v2	2	Are the texts cited in the article verified or unverified?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-qwen4B-v2	3	What is the credibility of the individuals involved in the allegations?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-qwen4B-v2	4	Are there any responses from Armie Hammer or his representatives?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-qwen4B-v2	5	What is the context of the texts in question?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-qwen4B-v2	6	Are there any counter-narratives or responses from Hammer's side?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-qwen4B-v2	7	What is the public's reaction to the allegations?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-qwen4B-v2	8	Are there any known instances of similar allegations against other celebrities?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-qwen4B-v2	9	What is the cultural or social context of these allegations?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-qwen4B-v2	10	Are there any legal implications or investigations into these allegations?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-qwen4B-v2	1	What evidence is presented to confirm Momo is not real?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-qwen4B-v2	2	Who are the sources cited in the article that validate Momo’s non-existence?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-qwen4B-v2	3	Are alternative viewpoints on Momo’s reality addressed?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-qwen4B-v2	4	Is the article's stance on Momo’s danger influenced by any external factors?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-qwen4B-v2	5	Are there conflicting reports about Momo’s existence in the article?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-qwen4B-v2	6	Does the article disclose any potential biases in the sources it cites?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-qwen4B-v2	7	What is the article’s perspective on the role of social media in spreading misinformation?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-qwen4B-v2	8	Are there links to primary sources or official statements regarding Momo?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-qwen4B-v2	9	Does the article address the credibility of the claims about Momo?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-qwen4B-v2	10	Are there any counterarguments presented regarding the Momo Challenge’s realness?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-qwen4B-v2	1	What sources support the claim that Gen Z is trying to cancel Eminem?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-qwen4B-v2	2	"Are the motivations of the individuals or groups involved in the ""cancel"" movement disclosed?"
+msmarco_v2.1_doc_25_501708725	CUET	CUET-qwen4B-v2	3	Are alternative viewpoints from older generations presented in the article?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-qwen4B-v2	4	"Does the article cite any specific incidents or events that led to the ""cancel"" movement?"
+msmarco_v2.1_doc_25_501708725	CUET	CUET-qwen4B-v2	5	Are there any potential conflicts of interest among the authors or contributors?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-qwen4B-v2	6	How does the article address the historical context of Eminem's music and public image?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-qwen4B-v2	7	"Does the article provide evidence of the millennial response to the ""cancel"" movement?"
+msmarco_v2.1_doc_25_501708725	CUET	CUET-qwen4B-v2	8	Are the demographic characteristics of Gen Z and millennials discussed in the article?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-qwen4B-v2	9	"Is the article's stance on the ""cancel"" movement neutral or biased?"
+msmarco_v2.1_doc_25_501708725	CUET	CUET-qwen4B-v2	10	Are the cultural and generational differences in attitudes towards Eminem analyzed?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-qwen4B-v2	1	Who is the author of the article and what is their potential bias?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-qwen4B-v2	2	What is the source of the information about the Pentagon's UFO report?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-qwen4B-v2	3	Are there alternative viewpoints or expert opinions presented in the article?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-qwen4B-v2	4	What is the credibility of the whistleblower Luis Elizondo?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-qwen4B-v2	5	What is the official stance of the Pentagon on UFOs?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-qwen4B-v2	6	Is the report's release date accurate and properly cited?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-qwen4B-v2	7	What is the content of the upcoming report on unidentified aerial phenomena?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-qwen4B-v2	8	Are there any conflicts of interest among the individuals involved in the report?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-qwen4B-v2	9	Is the article's information consistent with official Pentagon statements?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-qwen4B-v2	10	What is the purpose of the Pentagon's UFO report and what is its significance?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-qwen4B-v2	1	What evidence supports the claim that the Blue Whale challenge existed?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-qwen4B-v2	2	Who funded the investigations into the challenge's origins?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-qwen4B-v2	3	Are alternative explanations for Rina Palenkova's death presented?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-qwen4B-v2	4	"Are sources of the ""suicide game"" allegations verified?"
+msmarco_v2.1_doc_34_2529216	CUET	CUET-qwen4B-v2	5	Does the article address the credibility of VKontakte forums?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-qwen4B-v2	6	Are counterarguments about the challenge's existence included?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-qwen4B-v2	7	Are potential biases in the BBC's reporting disclosed?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-qwen4B-v2	8	Is statistical data on deaths linked to the challenge provided?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-qwen4B-v2	9	Are international perspectives on the challenge mentioned?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-qwen4B-v2	10	Does the article clarify the timeline of the challenge's spread?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-qwen4B-v2	1	What is the source of the claim that Ghosn fled Japan?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-qwen4B-v2	2	Who funded the investigations into Ghosn's escape?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-qwen4B-v2	3	Are alternative explanations for his escape provided?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-qwen4B-v2	4	What is the credibility of the CCTV footage mentioned?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-qwen4B-v2	5	Does the article present any counterarguments from Japanese authorities?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-qwen4B-v2	6	Are there alternative viewpoints from international observers?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-qwen4B-v2	7	What is the legal basis for Ghosn's alleged financial misconduct?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-qwen4B-v2	8	Are the security measures described in the article accurate?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-qwen4B-v2	9	Is there mention of any potential conflicts of interest in the reporting?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-qwen4B-v2	10	Are there independent sources corroborating Ghosn's statement?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-qwen4B-v2	1	What evidence supports the claim that microwaves caused Havana Syndrome?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-qwen4B-v2	2	Who funded the research on microwave effects and Havana Syndrome?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-qwen4B-v2	3	Are alternative explanations for the injuries presented in the report?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-qwen4B-v2	4	Does the article disclose conflicts of interest among the study authors?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-qwen4B-v2	5	Are expert opinions on microwave theories cited in the article?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-qwen4B-v2	6	Is the scientific consensus on microwave involvement in Havana Syndrome clear?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-qwen4B-v2	7	Are the symptoms described in the report medically plausible for microwaves?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-qwen4B-v2	8	Does the article mention other possible causes of the injuries?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-qwen4B-v2	9	Are the State Department's motivations for the study questioned?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-qwen4B-v2	10	Is the methodology of the research on microwaves and Havana Syndrome evaluated?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-qwen4B-v2	1	What legal definitions are provided for conservatorship?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-qwen4B-v2	2	What is the source of the information about conservatorship laws?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-qwen4B-v2	3	Are alternative viewpoints on conservatorship presented?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-qwen4B-v2	4	What is the role of the financial company in the conservatorship?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-qwen4B-v2	5	How does the article address the legal controversy?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-qwen4B-v2	6	What is the role of the #FreeBritney hashtag in the controversy?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-qwen4B-v2	7	Are the legal procedures for conservatorship explained?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-qwen4B-v2	8	Are there alternative legal options mentioned for Britney?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-qwen4B-v2	9	What is the significance of the New York Times documentary?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-qwen4B-v2	10	Are the legal implications of conservatorship discussed?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-qwen4B-v2	1	What specific evidence links the Blackout Challenge to the deaths mentioned?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-qwen4B-v2	2	Are the sources of the article's claims about the challenge's dangers verified?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-qwen4B-v2	3	Does the article present alternative viewpoints on the challenge's safety?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-qwen4B-v2	4	What is the author's potential bias in reporting on TikTok challenges?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-qwen4B-v2	5	Are there statistics on the number of incidents related to the challenge?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-qwen4B-v2	6	How does the article address the role of TikTok in spreading such challenges?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-qwen4B-v2	7	Is there mention of TikTok's responsibility in preventing these challenges?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-qwen4B-v2	8	Are the victims' families' perspectives included in the article?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-qwen4B-v2	9	Does the article compare the Blackout Challenge to other dangerous challenges?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-qwen4B-v2	10	Are there any conflicts of interest among the sources cited?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-qwen4B-v2	1	What evidence is provided to support the claim that Rick Singer was the mastermind of the scandal?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-qwen4B-v2	2	Are alternative perspectives or counterarguments presented by those not involved in the scandal?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-qwen4B-v2	3	Who funded the documentary and does this affect its objectivity?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-qwen4B-v2	4	What is the source of the information about Singer's guilty plea and sentencing status?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-qwen4B-v2	5	Are there any potential conflicts of interest among the individuals cited in the article?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-qwen4B-v2	6	Does the article mention any of the specific fraudulent practices used in the scandal?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-qwen4B-v2	7	What is the credibility of the sources cited in the article regarding the scandal's details?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-qwen4B-v2	8	Are there any other notable figures or organizations involved in the scandal besides Singer and the Loughlin/Felicitas families?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-qwen4B-v2	9	Does the article provide any information on the legal consequences faced by other individuals in the scandal?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-qwen4B-v2	10	Are there any known biases or agendas that might influence the article's portrayal of the scandal?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-qwen4B-v2	1	What is the source of the claims made about the benefits of oxygen inhalation?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-qwen4B-v2	2	Are the health claims for oxygen inhalation supported by peer-reviewed research?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-qwen4B-v2	3	Does the article acknowledge alternative viewpoints on the safety of oxygen therapy?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-qwen4B-v2	4	What is the author's potential conflict of interest in promoting oxygen bars?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-qwen4B-v2	5	Are the oxygen concentrations in the article properly explained and verified?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-qwen4B-v2	6	Does the article provide any data on the risks of excessive oxygen inhalation?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-qwen4B-v2	7	Are the differences between medical-grade oxygen and recreational oxygen therapy explained?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-qwen4B-v2	8	What are the potential health risks of using oxygen inhalers as a substitute for medical treatment?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-qwen4B-v2	9	Does the article mention any regulatory bodies that oversee oxygen therapy?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-qwen4B-v2	10	Are the long-term effects of regular oxygen inhalation addressed in the article?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-qwen4B-v2	1	What peer-reviewed studies support the claim that cannabis cures cancer?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-qwen4B-v2	2	Who funded the research cited in the article on cannabis and cancer?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-qwen4B-v2	3	Are alternative expert opinions presented in the article?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-qwen4B-v2	4	Is there mention of potential conflicts of interest among the cited researchers?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-qwen4B-v2	5	Are the anecdotal accounts of cannabis success validated by scientific data?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-qwen4B-v2	6	Does the article provide evidence of long-term cancer outcomes in cannabis users?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-qwen4B-v2	7	Are the limitations of cannabis as a cancer treatment discussed?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-qwen4B-v2	8	Are the risks and side effects of cannabis use for cancer patients addressed?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-qwen4B-v2	9	Are there studies that contradict the positive effects of cannabis on cancer?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-qwen4B-v2	10	Does the article differentiate between anecdotal evidence and clinical research?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-qwen4B-v2	1	What are the sources of the article's claims about the Mandela effect?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-qwen4B-v2	2	Who authored the article and what are their credentials?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-qwen4B-v2	3	Are alternative explanations for the Mandela effect presented?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-qwen4B-v2	4	Does the article cite peer-reviewed research on false memories?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-qwen4B-v2	5	Are potential conflicts of interest among cited experts mentioned?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-qwen4B-v2	6	Are examples of the Mandela effect clearly described?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-qwen4B-v2	7	Are the medical explanations of the Mandela effect supported by evidence?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-qwen4B-v2	8	Are alternative viewpoints on the Mandela effect discussed?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-qwen4B-v2	9	Does the article acknowledge the role of social media in spreading the effect?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-qwen4B-v2	10	Are the psychological mechanisms of false memories explained in detail?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-qwen4B-v2	1	What specific methods did the BrainEx system use to revive the pig brains?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-qwen4B-v2	2	Who funded the research and are there potential conflicts of interest?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-qwen4B-v2	3	Are alternative viewpoints or counterarguments presented in the article?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-qwen4B-v2	4	What is the source of the scientific data used in the study?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-qwen4B-v2	5	Does the article address the ethical implications of the research?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-qwen4B-v2	6	Are there any known limitations or risks associated with the technique?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-qwen4B-v2	7	How does this research compare to previous studies on brain preservation?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-qwen4B-v2	8	Is there mention of long-term viability or stability of the revived brain cells?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-qwen4B-v2	9	Are the results consistent with findings from other research institutions?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-qwen4B-v2	10	Does the article disclose any potential commercial applications of the technology?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-qwen4B-v2	1	What is the source of the claim that Citibank made a clerical error?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-qwen4B-v2	2	Are there independent sources verifying the $900 million transfer?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-qwen4B-v2	3	What is the financial relationship between Citibank and Revlon?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-qwen4B-v2	4	Is there evidence of internal investigations or audits regarding the error?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-qwen4B-v2	5	What is the official position of Citibank regarding the error?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-qwen4B-v2	6	Are there alternative explanations for the $900 million transfer?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-qwen4B-v2	7	What is the legal status of the lawsuit involving Citibank?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-qwen4B-v2	8	What is the financial impact on Citibank's stakeholders?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-qwen4B-v2	9	Are there expert opinions on the handling of the error?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-qwen4B-v2	10	What is the potential long-term consequence of this error for Citibank?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-qwen4B-v2	1	What scientific evidence supports the claim of a parallel universe with reversed time?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-qwen4B-v2	2	Who funded the research that led to this discovery?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-qwen4B-v2	3	Are alternative interpretations of the findings presented?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-qwen4B-v2	4	Is the methodology of the experiment described in detail?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-qwen4B-v2	5	Are there peer-reviewed publications backing this claim?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-qwen4B-v2	6	Are potential conflicts of interest among the researchers disclosed?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-qwen4B-v2	7	Does the article mention any limitations of the study?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-qwen4B-v2	8	Are the implications of a time-reversal universe discussed?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-qwen4B-v2	9	Are other scientists in the field criticized for their skepticism?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-qwen4B-v2	10	Does the article provide links to primary research sources?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-qwen4B-v2	1	What official investigation was conducted to determine the fire's cause?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-qwen4B-v2	2	Who funded the investigation into the Notre Dame fire?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-qwen4B-v2	3	Are alternative theories about the fire's origin presented?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-qwen4B-v2	4	Is the article's reporting consistent with official statements?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-qwen4B-v2	5	Are there conflicting reports from different sources on the fire's cause?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-qwen4B-v2	6	Does the article disclose any potential conflicts of interest among witnesses or experts?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-qwen4B-v2	7	Are the fire's technical details (e.g., electrical systems) accurately described?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-qwen4B-v2	8	Are the statements of firefighters or officials verified?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-qwen4B-v2	9	Is the article's timeline of events corroborated by multiple sources?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-qwen4B-v2	10	Are the findings of the investigation cited with proper academic references?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-qwen4B-v2	1	What is the article's source of information about Belle Delphine's bathwater sale?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-qwen4B-v2	2	Are alternative perspectives on Belle Delphine's actions presented?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-qwen4B-v2	3	Does the article disclose any potential conflicts of interest in the cited sources?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-qwen4B-v2	4	What is the credibility of the sources cited in the article?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-qwen4B-v2	5	Are there any biases in the article's portrayal of Belle Delphine?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-qwen4B-v2	6	What is the article's stance on the ethical implications of the bathwater sale?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-qwen4B-v2	7	Are there any other sources that provide a different account of Belle Delphine's background?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-qwen4B-v2	8	What is the article's explanation of the timeline of Belle Delphine's rise to fame?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-qwen4B-v2	9	Does the article provide any evidence of Belle Delphine's personal ethics or character?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-qwen4B-v2	10	Are there any inconsistencies in the article's facts about Belle Delphine's background?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-qwen4B-v2	1	What evidence links the 17-year-old to the Twitter hack?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-qwen4B-v2	2	Are the charges against Clark consistent with the scale of the hack?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-qwen4B-v2	3	Is there independent verification of the hack’s occurrence?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-qwen4B-v2	4	Does the article disclose any conflicts of interest among the prosecutors?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-qwen4B-v2	5	Are alternative explanations for the hack presented?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-qwen4B-v2	6	What is the source of the claim that Kirk is Clark?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-qwen4B-v2	7	Is there information on the technical methods used in the hack?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-qwen4B-v2	8	Are the charges against Clark aligned with the nature of the hack?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-qwen4B-v2	9	Are the testimonies of the other two individuals credible?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-qwen4B-v2	10	Does the article provide any context on the hack’s impact?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-qwen4B-v2	1	What is the primary source of funding for the European Super League's operations?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-qwen4B-v2	2	Are there official statements from the UEFA or other governing bodies regarding the Super League's legality?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-qwen4B-v2	3	What are the potential financial implications for clubs not participating in the Super League?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-qwen4B-v2	4	Are there alternative viewpoints from sports analysts or former league officials on the Super League's impact?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-qwen4B-v2	5	Does the article provide evidence of the Super League's long-term sustainability in the sports industry?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-qwen4B-v2	6	Are there any legal challenges or lawsuits related to the Super League's formation?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-qwen4B-v2	7	What are the consequences of the Super League for the financial stability of the Premier League?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-qwen4B-v2	8	Are there any ethical concerns related to the Super League's structure and governance?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-qwen4B-v2	9	Does the article address the impact of the Super league on the global football community?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-qwen4B-v2	10	Are there any historical precedents for breakaway leagues in professional sports, and how do they compare?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-qwen4B-v2	1	What evidence supports the claim that cashless societies reduce crime?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-qwen4B-v2	2	Who funded the studies on crime reduction in cashless societies?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-qwen4B-v2	3	Are alternative expert opinions presented on the benefits of cashless societies?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-qwen4B-v2	4	Does the article provide data on the security risks of digital payments?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-qwen4B-v2	5	Are there counterarguments about the disadvantages of cashless societies?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-qwen4B-v2	6	Are potential conflicts of interest among the authors disclosed?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-qwen4B-v2	7	Is there mention of how cashless systems handle currency exchange for international travel?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-qwen4B-v2	8	Are specific examples of data breaches in cashless systems provided?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-qwen4B-v2	9	Does the article reference any historical attempts at cashless societies?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-qwen4B-v2	10	Are the financial implications for the average consumer addressed?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-qwen4B-v2	1	"What is the credibility of the ""Birds Aren't Real"" group's claims?"
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-qwen4B-v2	2	Are the group's motivations for spreading the conspiracy transparent?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-qwen4B-v2	3	What evidence supports the theory that birds are government drones?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-qwen4B-v2	4	Are alternative explanations for the posters and signs presented?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-qwen4B-v2	5	Does the article disclose any conflicts of interest in the sources quoted?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-qwen4B-v2	6	Are the group's claims compared to scientific or factual data?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-qwen4B-v2	7	"What is the historical basis for the ""Birds Aren't Real"" theory?"
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-qwen4B-v2	8	Are there counterarguments or skepticism from other individuals or experts?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-qwen4B-v2	9	Does the article verify the authenticity of the group's leadership?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-qwen4B-v2	10	Are the group's activities scrutinized for potential misinformation?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-qwen4B-v2	1	What is the source of the article's information about Epic Games suing Apple?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-qwen4B-v2	2	Does The Verge have a history of reporting on Apple's business practices?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-qwen4B-v2	3	Are alternative viewpoints from Apple or other companies presented?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-qwen4B-v2	4	Are the legal claims in the article properly attributed to Epic Games?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-qwen4B-v2	5	Does the article disclose any potential conflicts of interest related to The Verge's reporting?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-qwen4B-v2	6	Is there mention of the legal basis for Epic Games' lawsuit against Apple?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-qwen4B-v2	7	Are the App Store guidelines cited in the article accurately represented?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-qwen4B-v2	8	Does the article provide details on the financial impact of this lawsuit on Apple?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-qwen4B-v2	9	Are there other companies that have faced similar legal challenges against Apple?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-qwen4B-v2	10	Does the article explain the broader implications of this lawsuit for app distribution policies?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-qwen4B-v2	1	What are the potential conflicts of interest in the sources cited for jackfruit's health benefits?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-qwen4B-v2	2	Are alternative viewpoints or expert opinions presented in the article?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-qwen4B-v2	3	Are the nutritional data per serving properly attributed with sources?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-qwen4B-v2	4	Does the article provide evidence for the health claims about jackfruit?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-qwen4B-v2	5	Are there any studies or research that contradict the health benefits mentioned?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-qwen4B-v2	6	Are the cultural or regional differences in jackfruit consumption addressed?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-qwen4B-v2	7	Are the potential side effects or allergies related to jackfruit discussed?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-qwen4B-v2	8	Is the article's information consistent with other reputable health resources?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-qwen4B-v2	9	Are the preparation methods for jackfruit based on scientific or cultural practices?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-qwen4B-v2	10	Who is the author or reviewer of the jackfruit article, and does their background relate to nutrition or food science?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-qwen4B-v2	1	What evidence supports the claim that the Area 51 raid was the worst way to spot aliens?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-qwen4B-v2	2	Who funded the research or events leading to the Area 51 raid?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-qwen4B-v2	3	Are alternative perspectives on Area 51’s purpose presented in the article?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-qwen4B-v2	4	Does the article disclose any conflicts of interest related to the raid?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-qwen4B-v2	5	Are the claims about extraterrestrial activity backed by credible sources?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-qwen4B-v2	6	What is the official stance of the U.S. government on Area 51’s secrecy?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-qwen4B-v2	7	Are there experts who dispute the conspiracy theories about Area 51?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-qwen4B-v2	8	Does the article address the credibility of Bob Lazar’s claims?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-qwen4B-v2	9	Are the motivations of the event organizers for the raid explained?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-qwen4B-v2	10	Is the article’s tone influenced by the publication’s usual editorial stance?

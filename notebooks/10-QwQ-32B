@@ -1,0 +1,300 @@
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/QwQ-32B	1	What evidence supports the claim that Sam Panopoulos invented the Hawaiian pizza in 1962?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/QwQ-32B	2	Are there any other claims to the invention of the Hawaiian pizza?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/QwQ-32B	3	How does the article define the ingredients of a Hawaiian pizza?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/QwQ-32B	4	Is there any discussion about the popularity or controversy surrounding the Hawaiian pizza?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/QwQ-32B	5	Does the article mention any alternative versions or variations of the Hawaiian pizza?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/QwQ-32B	6	"How does the article explain the origin of the name ""Hawaiian"" for this type of pizza?"
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/QwQ-32B	7	Is there any historical context provided about the spread of pizza in North America?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/QwQ-32B	8	Does the article discuss the cultural significance of pizza in Canada and the U.S.?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/QwQ-32B	9	Are there any quotes or statements from Sam Panopoulos himself in the article?
+msmarco_v2.1_doc_04_420132660	CUET	CUET-unsloth/QwQ-32B	10	Does the article explore the reasons why some people might dislike Hawaiian pizza?
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/QwQ-32B	1	**What specific studies link instant noodles to stroke, diabetes, weight gain, and cancer?**
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/QwQ-32B	2	**Who funded these studies, and do they have any potential conflicts of interest?**
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/QwQ-32B	3	**Are there any counterarguments or alternative viewpoints from experts in the field?**
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/QwQ-32B	4	**How does the nutritional content of instant noodles compare to other convenience foods?**
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/QwQ-32B	5	**What is the role of TBHQ in instant noodles, and are there any regulations governing its use?**
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/QwQ-32B	6	**Are there any long-term studies on the health effects of consuming instant noodles regularly?**
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/QwQ-32B	7	**How do instant noodles fit into a balanced diet, if at all?**
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/QwQ-32B	8	**What are the differences between instant noodles and traditional Ramen in terms of ingredients and health impact?**
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/QwQ-32B	9	**Are there healthier alternatives to instant noodles for those seeking convenience?**
+msmarco_v2.1_doc_06_1440134319	CUET	CUET-unsloth/QwQ-32B	10	**Does the article provide any data on the prevalence of instant noodle consumption and related health issues?**
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/QwQ-32B	1	Does the article provide evidence or sources to support the claim that Coca-Cola imports coca leaves for cocaine manufacture?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/QwQ-32B	2	Is there a distinction made between the legal use of coca leaves in Coca-Cola and the illegal manufacture of cocaine?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/QwQ-32B	3	How does the article address the historical context of coca leaves in Coca-Cola's formula?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/QwQ-32B	4	Are there any quotes or statements from Coca-Cola company officials regarding their use of coca leaves?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/QwQ-32B	5	Does the article explain the legal exemption granted to Coca-Cola for importing coca leaves?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/QwQ-32B	6	Is there any discussion on the safety and non-addictive nature of coca leaves in their natural form?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/QwQ-32B	7	Are the environmental impacts of coca leaf eradication policies mentioned?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/QwQ-32B	8	Does the article provide information on the processing of coca leaves by the Stepan Company?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/QwQ-32B	9	Are there any references to other companies or products that use coca leaves legally?
+msmarco_v2.1_doc_08_300872161	CUET	CUET-unsloth/QwQ-32B	10	Does the article discuss the difference between coca leaves and cocaine in terms of legal status and usage?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/QwQ-32B	1	What is the basis for the claim that a 4,000 qubit quantum computer could crack Bitcoin's encryption in seconds?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/QwQ-32B	2	What is the current state of quantum computer development, and how close are we to reaching 4,000 qubits?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/QwQ-32B	3	Are there any known quantum computers with over 54 qubits currently in operation?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/QwQ-32B	4	How do quantum computers differ from classical computers in terms of processing power and encryption breaking capabilities?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/QwQ-32B	5	What measures are being taken by the Bitcoin community to protect against potential quantum computer attacks?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/QwQ-32B	6	How realistic is the timeline suggesting that such a quantum computer could be available by 2022?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/QwQ-32B	7	What are the potential implications for Bitcoin and other cryptocurrencies if quantum computers become powerful enough to break their encryption?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/QwQ-32B	8	Are there alternative encryption methods that could make cryptocurrencies quantum-resistant?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/QwQ-32B	9	How do experts in quantum computing view the threat to Bitcoin, and are their opinions uniform?
+msmarco_v2.1_doc_15_116067546	CUET	CUET-unsloth/QwQ-32B	10	What is the likelihood that a government or entity would use a quantum computer to attack Bitcoin, and what safeguards are in place to prevent this?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/QwQ-32B	1	"What is the basis for the claim that the shoes contain ""one drop of actual human blood""?"
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/QwQ-32B	2	Who is MSCHF, and what is their history with controversial products?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/QwQ-32B	3	What is the relationship between MSCHF and Lil Nas X in this product launch?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/QwQ-32B	4	How does Nike feel about the use of their Air Max 97 design in these shoes?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/QwQ-32B	5	What are the legal implications of MSCHF's use of Nike's trademarked design?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/QwQ-32B	6	Are there any health or safety concerns related to the inclusion of human blood in the shoes?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/QwQ-32B	7	"How does this product compare to MSCHF's previous ""Jesus Shoes""?"
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/QwQ-32B	8	"What is the public's reaction to the ""Satan Shoes,"" and how is it being expressed?"
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/QwQ-32B	9	Is there any religious or cultural significance to the design elements of the shoes?
+msmarco_v2.1_doc_21_861891150	CUET	CUET-unsloth/QwQ-32B	10	How does the sale of these shoes fit into broader trends in fashion and consumer culture?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/QwQ-32B	1	What specific evidence or sources are cited to support the allegations against Armie Hammer?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/QwQ-32B	2	How do the sources of the screenshots and stories about Hammer's alleged behavior authenticate their validity?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/QwQ-32B	3	Are there any official statements or responses from Armie Hammer regarding these allegations?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/QwQ-32B	4	What is the credibility of the ex-girlfriends who have come forward with these claims?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/QwQ-32B	5	Are there any independent investigations or fact-checking being conducted on these allegations?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/QwQ-32B	6	How does the article address the potential for false accusations or misunderstandings in the context of these allegations?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/QwQ-32B	7	Is there any information provided about the legal status or actions taken in response to these allegations?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/QwQ-32B	8	Does the article consider the possibility of these allegations being part of a smear campaign or revenge?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/QwQ-32B	9	How does the article handle the sensitive nature of the allegations, particularly in terms of respecting privacy and avoiding sensationalism?
+msmarco_v2.1_doc_22_1648697797	CUET	CUET-unsloth/QwQ-32B	10	Are there any expert opinions or psychological insights provided to help understand the context of such allegations?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/QwQ-32B	1	What evidence is there to support the claim that the Momo Challenge is not real?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/QwQ-32B	2	Who is spreading the rumors about the Momo Challenge, and what is their motivation?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/QwQ-32B	3	Are there any credible sources that confirm the Momo Challenge is a hoax?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/QwQ-32B	4	How does sharing rumors about the Momo Challenge affect public perception and behavior?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/QwQ-32B	5	What steps are being taken to debunk the Momo Challenge myth?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/QwQ-32B	6	Are there any patterns or historical precedents similar to the Momo Challenge hoax?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/QwQ-32B	7	How does the spread of such rumors impact parental anxiety and child safety measures?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/QwQ-32B	8	What role do social media platforms play in the dissemination of these rumors?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/QwQ-32B	9	Are there any legal implications for spreading false information about the Momo Challenge?
+msmarco_v2.1_doc_25_481628070	CUET	CUET-unsloth/QwQ-32B	10	How can the public discern between real threats and internet hoaxes like the Momo Challenge?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/QwQ-32B	1	"What specific actions or statements by Gen Z are being referred to as attempts to ""cancel"" Eminem?"
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/QwQ-32B	2	"How does the article define ""offensive"" in the context of Eminem's music?"
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/QwQ-32B	3	Are there direct quotes from millennials pushing back against Gen Z's actions?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/QwQ-32B	4	Does the article provide data or statistics on the generational divide in opinions about Eminem?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/QwQ-32B	5	Are there any counterarguments presented from Gen Z's perspective?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/QwQ-32B	6	"Is there any mention of Eminem's response to these attempts to ""cancel"" him?"
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/QwQ-32B	7	Does the article discuss the historical context of Eminem's career and previous controversies?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/QwQ-32B	8	Are any experts or journalists cited to support the claims made in the article?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/QwQ-32B	9	Is the article balanced in presenting both sides of the debate, or does it lean towards one perspective?
+msmarco_v2.1_doc_25_501708725	CUET	CUET-unsloth/QwQ-32B	10	How does the article handle the sensitive nature of the subject matter, particularly regarding generational conflict and free speech?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/QwQ-32B	1	What is the source of Luis Elizondo's claims about the Pentagon's UFO program and his position within it?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/QwQ-32B	2	Has Luis Elizondo provided any evidence or documentation to support his claims about the existence of a Pentagon UFO program?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/QwQ-32B	3	What is the official stance of the Pentagon regarding the existence of a UFO program and the upcoming report?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/QwQ-32B	4	How does the upcoming report on UAP align with previous government statements on UFOs?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/QwQ-32B	5	Are there any independent experts or sources confirming the existence of a Pentagon UFO program?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/QwQ-32B	6	What is the methodology used in the Pentagon's investigation into UAP, and has it been peer-reviewed?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/QwQ-32B	7	Does the article mention any potential political motivations behind the release of the UAP report?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/QwQ-32B	8	Are there any known biases or conflicts of interest in Luis Elizondo's position as a whistleblower and former Pentagon employee?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/QwQ-32B	9	How does the article address the possibility that UAP sightings could have mundane explanations, such as misidentified natural phenomena or military technology?
+msmarco_v2.1_doc_25_502424913	CUET	CUET-unsloth/QwQ-32B	10	"Is there any information on how the public should interpret the term ""reality"" in the context of UFOs as used by Elizondo?"
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/QwQ-32B	1	What evidence is there to support the claim that the Blue Whale challenge exists as described?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/QwQ-32B	2	How did the story of Rina Palenkova become associated with the Blue Whale challenge?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/QwQ-32B	3	Are there any credible sources that confirm the existence of this online suicide game?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/QwQ-32B	4	What is the role of social media platforms in spreading information about the Blue Whale challenge?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/QwQ-32B	5	How have governments and authorities responded to reports of the Blue Whale challenge?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/QwQ-32B	6	Are there any patterns or commonalities among the reported cases linked to the Blue Whale challenge?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/QwQ-32B	7	What is the motive behind creating or promoting such a challenge, if it exists?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/QwQ-32B	8	How does the media's portrayal of the Blue Whale challenge affect public perception and response?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/QwQ-32B	9	Are there any experts in psychology or online behavior who have commented on the likelihood of such a challenge existing?
+msmarco_v2.1_doc_34_2529216	CUET	CUET-unsloth/QwQ-32B	10	What steps can be taken to prevent or address the issue if the Blue Whale challenge is a real phenomenon?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/QwQ-32B	1	What specific security measures were in place to monitor Mr. Ghosn, and how were they circumvented?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/QwQ-32B	2	Who assisted Mr. Ghosn in his escape, and what was their role in the plan?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/QwQ-32B	3	What was the sequence of events that allowed Mr. Ghosn to leave Japan undetected?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/QwQ-32B	4	How did Mr. Ghosn manage to board a flight or exit the country without being detected by immigration or law enforcement?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/QwQ-32B	5	What was the reaction of the Japanese authorities upon discovering Mr. Ghosn's absence, and what steps did they take?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/QwQ-32B	6	Did Mr. Ghosn have prior knowledge of the charges against him, and did this influence his decision to flee?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/QwQ-32B	7	How does Mr. Ghosn's flight impact the ongoing legal proceedings in Japan?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/QwQ-32B	8	What international cooperation is required to apprehend Mr. Ghosn, and what are the extradition possibilities?
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/QwQ-32B	9	"What does Mr. Ghosn's statement about ""injustice and political persecution"" suggest about his perception of the Japanese legal system?"
+msmarco_v2.1_doc_34_7751734	CUET	CUET-unsloth/QwQ-32B	10	How might Mr. Ghosn's flight affect future business relations between Japan and other countries, particularly Lebanon?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/QwQ-32B	1	What specific powers does Jamie Spears hold over Britney's estate and personal decisions under the conservatorship?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/QwQ-32B	2	How does the conservatorship in California differ from guardianships in other states, and are there better alternatives for Britney's situation?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/QwQ-32B	3	What were the initial reasons for establishing Britney's conservatorship in 2008, and have those conditions changed over time?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/QwQ-32B	4	Has Britney's conservatorship been reviewed regularly by the court, and what is the process for terminating it?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/QwQ-32B	5	What role does the co-conservator, the financial company, play in managing Britney's affairs, and are there any conflicts of interest?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/QwQ-32B	6	How has the #FreeBritney movement influenced the court's decisions regarding Britney's conservatorship?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/QwQ-32B	7	What evidence has been presented in court to support Britney's claims that she wants to leave the conservatorship?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/QwQ-32B	8	Are there any mental health professionals involved in Britney's case, and what are their opinions on her current state?
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/QwQ-32B	9	"How does the New York Times documentary ""Framing Britney Spears"" contribute to the public's understanding of her conservatorship?"
+msmarco_v2.1_doc_35_1300032609	CUET	CUET-unsloth/QwQ-32B	10	What are the potential consequences for Britney if her conservatorship is not modified or terminated?
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/QwQ-32B	1	"**What evidence supports the microwave theory for ""Havana Syndrome""?** (24 characters)"
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/QwQ-32B	2	**Are alternative explanations considered in the report?** (30 characters)
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/QwQ-32B	3	"**Who funded the National Academies study on ""Havana Syndrome""?** (34 characters)"
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/QwQ-32B	4	**What are the specific symptoms reported by the diplomats?** (34 characters)
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/QwQ-32B	5	"**How many diplomats were affected by ""Havana Syndrome""?** (31 characters)"
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/QwQ-32B	6	**What is the State Department's stance on the microwave theory?** (35 characters)
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/QwQ-32B	7	**Are there any known cases of microwave weapons causing such symptoms?** (42 characters)
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/QwQ-32B	8	"**What other possible causes for ""Havana Syndrome"" have been proposed?** (43 characters)"
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/QwQ-32B	9	**Did the report recommend further investigation into the microwave theory?** (46 characters)
+msmarco_v2.1_doc_35_441326441	CUET	CUET-unsloth/QwQ-32B	10	**What is the reaction of outside experts to the microwave theory?** (40 characters)
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/QwQ-32B	1	1. What specific actions are involved in the Blackout Challenge on TikTok?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/QwQ-32B	2	Are there any official statements from TikTok regarding this challenge?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/QwQ-32B	3	How does asphyxiation relate to the challenge, and what are the risks involved?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/QwQ-32B	4	Are there any age restrictions or content warnings on TikTok for such challenges?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/QwQ-32B	5	What steps can parents take to monitor their children's activity on TikTok?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/QwQ-32B	6	Are there any support systems or resources available for teens who engage in such challenges?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/QwQ-32B	7	How prevalent is the Blackout Challenge on TikTok compared to other trends?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/QwQ-32B	8	What measures has TikTok taken to prevent dangerous challenges from spreading on its platform?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/QwQ-32B	9	Are there any educational campaigns or awareness programs about the dangers of such challenges?
+msmarco_v2.1_doc_38_227081897	CUET	CUET-unsloth/QwQ-32B	10	How can the community report and address dangerous content on TikTok?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/QwQ-32B	1	What evidence is presented in the documentary to support the claims made about Rick Singer's role in the admissions scandal?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/QwQ-32B	2	How does the documentary ensure the accuracy of its information, especially considering it's based on a criminal case?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/QwQ-32B	3	Are there any interviews with Rick Singer in the documentary? If so, how were they obtained and what is their reliability?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/QwQ-32B	4	Does the documentary provide context on the broader issues of college admissions and socioeconomic inequality?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/QwQ-32B	5	Are there any experts or former college admissions officers interviewed in the documentary to provide insight into the admissions process?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/QwQ-32B	6	How does the documentary handle the testimonies or statements from the involved parents and college officials?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/QwQ-32B	7	Is there any discussion about the potential long-term impacts of the scandal on the universities and their admissions processes?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/QwQ-32B	8	Does the documentary explore the motivations behind the parents' involvement in the scandal?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/QwQ-32B	9	Are there any counterarguments or alternative perspectives presented in the documentary?
+msmarco_v2.1_doc_39_1014551192	CUET	CUET-unsloth/QwQ-32B	10	How does the documentary balance the narrative between Singer's actions and the role of the parents and college officials involved?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/QwQ-32B	1	Does the article provide evidence or studies to support the health claims made by oxygen bars?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/QwQ-32B	2	Are there any potential risks or side effects of using recreational oxygen inhalers mentioned in the article?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/QwQ-32B	3	Does the article clarify the difference between recreational oxygen and medical-grade oxygen?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/QwQ-32B	4	Are there any regulations or standards governing the operation of oxygen bars?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/QwQ-32B	5	Does the article discuss the cost of using oxygen bars and whether it's a worthwhile investment for the claimed benefits?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/QwQ-32B	6	Are there any expert opinions or medical professionals quoted in the article to support or refute the claims of oxygen bars?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/QwQ-32B	7	Does the article address the possibility of oxygen addiction or dependency from regular use?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/QwQ-32B	8	Is there any information on the purity and safety of the oxygen provided in these establishments?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/QwQ-32B	9	Does the article consider the environmental impact of using canned oxygen products?
+msmarco_v2.1_doc_39_1165221603	CUET	CUET-unsloth/QwQ-32B	10	Are there any alternative methods or lifestyle changes suggested that could achieve similar health benefits without using oxygen bars?
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/QwQ-32B	1	**What specific evidence or studies does the article cite to support the claim that cannabis can cure cancer?**
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/QwQ-32B	2	**Are there any peer-reviewed scientific studies mentioned in the article that confirm the effectiveness of cannabis in treating cancer?**
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/QwQ-32B	3	**Does the article provide information on the types of cancer that cannabis may be effective against?**
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/QwQ-32B	4	**What is the medical community's general stance on using cannabis as a treatment for cancer, as presented in the article?**
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/QwQ-32B	5	**Does the article discuss any potential side effects or risks associated with using cannabis for cancer treatment?**
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/QwQ-32B	6	**Are there any quotes or statements from cancer researchers or oncologists in the article?**
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/QwQ-32B	7	**Does the article mention any ongoing clinical trials or research studies investigating the use of cannabis in cancer treatment?**
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/QwQ-32B	8	**How does the article address the difference between using cannabis to treat cancer symptoms versus curing the disease itself?**
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/QwQ-32B	9	**Is there any information provided about the dosage and method of administration of cannabis for cancer treatment?**
+msmarco_v2.1_doc_41_1960853470	CUET	CUET-unsloth/QwQ-32B	10	**Does the article discuss the legality and accessibility of cannabis for medical use in treating cancer?**
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/QwQ-32B	1	What is the primary explanation provided for the Mandela effect in the article?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/QwQ-32B	2	Are there any scientific studies or research cited to support the concept of the Mandela effect?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/QwQ-32B	3	How does the article distinguish between individual and collective false memories?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/QwQ-32B	4	Does the article discuss potential psychological reasons behind the Mandela effect besides confabulation?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/QwQ-32B	5	Are there any examples provided in the article that illustrate the Mandela effect in popular culture?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/QwQ-32B	6	Is there a mention of how the Mandela effect differs from other types of memory errors?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/QwQ-32B	7	Does the article explore the role of misinformation or fake news in creating the Mandela effect?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/QwQ-32B	8	Are there any tips or advice given on how to recognize and prevent false memories?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/QwQ-32B	9	How does the article address the conspiracy theory aspect related to the Mandela effect?
+msmarco_v2.1_doc_42_654618974	CUET	CUET-unsloth/QwQ-32B	10	Is there a conclusion or takeaway message about the Mandela effect presented in the article?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/QwQ-32B	1	What specific cellular functions were restored in the pig brains, and how does this compare to a living brain's functions?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/QwQ-32B	2	How does the BrainEx system work, and what are its components?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/QwQ-32B	3	Were there any ethical approvals or guidelines followed for using pig brains from a food processing plant?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/QwQ-32B	4	How does this research impact the current understanding and definition of brain death?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/QwQ-32B	5	What measures were taken to ensure that the brains did not regain consciousness or awareness?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/QwQ-32B	6	Can this technology be applied to human brains, and if so, what are the potential implications?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/QwQ-32B	7	How might this research advance our understanding and treatment of human brain diseases and disorders?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/QwQ-32B	8	What are the potential ethical concerns regarding the revival of dead brain tissue?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/QwQ-32B	9	Are there any plans to extend the duration of cellular function beyond six hours?
+msmarco_v2.1_doc_47_1430382251	CUET	CUET-unsloth/QwQ-32B	10	How does this research challenge existing views on the irreversibility of brain death?
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/QwQ-32B	1	**What evidence supports the identification of the teenager as the mastermind?**
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/QwQ-32B	2	**What was the method used in the Twitter hack?**
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/QwQ-32B	3	**How did the authorities trace the hack back to this specific teenager?**
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/QwQ-32B	4	**Are there any statements from Twitter regarding the arrest and the teenager's role?**
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/QwQ-32B	5	**What is the motive behind the hack according to the authorities?**
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/QwQ-32B	6	**What is the potential impact of this hack on Twitter's security measures?**
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/QwQ-32B	7	**Are there any independent experts who have reviewed the case and confirmed the teenager's involvement?**
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/QwQ-32B	8	**What is the teenager's background in computer science or hacking?**
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/QwQ-32B	9	**What are the potential legal consequences for the teenager and his co-accused?**
+msmarco_v2.1_doc_48_1289995263	CUET	CUET-unsloth/QwQ-32B	10	**Have similar hacks been perpetrated by teenagers in the past?**
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/QwQ-32B	1	"What exactly was the ""clerical error"" made by Citibank, and how did it lead to the wiring of $900 million?"
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/QwQ-32B	2	Who were the recipients of the $900 million, and were they aware that the payment was a mistake?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/QwQ-32B	3	What steps has Citibank taken to rectify the error and recover the funds?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/QwQ-32B	4	How does this error affect Revlon's financial position and its relationship with its creditors?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/QwQ-32B	5	What are the legal implications for Citibank and the lenders who received the erroneous payment?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/QwQ-32B	6	Has Revlon confirmed that it did not authorize the payment, and what is its stance on the matter?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/QwQ-32B	7	How common are such clerical errors in financial transactions, and what measures are in place to prevent them?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/QwQ-32B	8	What role does Citibank play as the administrative agent on Revlon's loan, and how does this error impact its responsibilities?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/QwQ-32B	9	Are there any precedents or similar cases where a bank made a large clerical error, and how were they resolved?
+msmarco_v2.1_doc_48_273997000	CUET	CUET-unsloth/QwQ-32B	10	What potential consequences could Citibank face if it is unable to recover the mistakenly wired funds?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/QwQ-32B	1	What specific evidence does NASA have for the existence of a parallel universe with reversed time?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/QwQ-32B	2	Which NASA scientists are making this claim, and what are their credentials?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/QwQ-32B	3	Is this discovery peer-reviewed or published in a scientific journal?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/QwQ-32B	4	How does this finding align with existing theories in physics and cosmology?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/QwQ-32B	5	Are there alternative explanations for the observed phenomena besides a parallel universe?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/QwQ-32B	6	What is the methodology behind the cosmic ray detection experiment mentioned?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/QwQ-32B	7	How does this relate to the standard model of physics?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/QwQ-32B	8	Are other scientific institutions corroborating these findings?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/QwQ-32B	9	What are the implications of this discovery for our understanding of time and the universe?
+msmarco_v2.1_doc_48_515083157	CUET	CUET-unsloth/QwQ-32B	10	Is there any possibility that this is a misinterpretation of data or an error in the experiment?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/QwQ-32B	1	What evidence is there to support the initial cause of the fire?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/QwQ-32B	2	Are there any conflicting theories about how the fire started?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/QwQ-32B	3	Was the cathedral undergoing renovations or maintenance at the time?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/QwQ-32B	4	Has the French government released an official report on the fire's origin?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/QwQ-32B	5	Are there any eyewitness accounts of the fire starting?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/QwQ-32B	6	What safety measures were in place at the Notre Dame Cathedral?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/QwQ-32B	7	Has there been any investigation into potential arson?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/QwQ-32B	8	How does this fire compare to previous incidents at the cathedral?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/QwQ-32B	9	Are there any insurance claims or financial implications related to the fire?
+msmarco_v2.1_doc_48_515287844	CUET	CUET-unsloth/QwQ-32B	10	What steps are being taken to prevent similar incidents in the future?
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/QwQ-32B	1	**What is the source of the information about Belle Delphine's background and early career?**
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/QwQ-32B	2	**Does the article provide direct quotes or interviews from Belle Delphine herself?**
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/QwQ-32B	3	**How does the article address the controversy surrounding Belle Delphine's selling of bathwater?**
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/QwQ-32B	4	**Are there any statements in the article that can be verified through independent sources?**
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/QwQ-32B	5	**What is the motive behind Belle Delphine's decision to sell her bathwater, as explained in the article?**
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/QwQ-32B	6	**Does the article discuss the potential implications or consequences of Belle Delphine's actions?**
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/QwQ-32B	7	**Are there any expert opinions or analyses included in the article regarding Belle Delphine's rise to fame?**
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/QwQ-32B	8	**How does the article handle the transition from Belle Kirschner to Belle Delphine?**
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/QwQ-32B	9	**Does the article mention any criticisms or negative reactions to Belle Delphine's activities?**
+msmarco_v2.1_doc_48_730773621	CUET	CUET-unsloth/QwQ-32B	10	**What is the tone of the article when discussing Belle Delphine's actions and popularity?**
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/QwQ-32B	1	Who are the founding members of the European Super League and what are their motivations for joining?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/QwQ-32B	2	How does the structure of the Super League differ from the current UEFA Champions League?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/QwQ-32B	3	What are the implications of the Super League for smaller clubs and national leagues?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/QwQ-32B	4	How will the Super League impact the global appeal and financial landscape of soccer?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/QwQ-32B	5	What reactions have been received from fans, other clubs, and governing bodies like UEFA and FIFA?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/QwQ-32B	6	Is there a precedent for such a breakaway league in European sports?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/QwQ-32B	7	How might the Super League affect player transfers and wages?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/QwQ-32B	8	What are the financial incentives for the clubs involved in the Super League?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/QwQ-32B	9	How will the Super League address concerns about competition and fairness?
+msmarco_v2.1_doc_52_1666095905	CUET	CUET-unsloth/QwQ-32B	10	What steps are being taken to prevent the Super League from becoming a closed shop for elite clubs?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/QwQ-32B	1	"What evidence supports the claim that ""Birds Aren't Real"" is a conspiracy turned movement?"
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/QwQ-32B	2	"Who is the leader of the ""Birds Aren't Real"" movement, and what is their background?"
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/QwQ-32B	3	"How does the article define the ""Birds Aren't Real"" movement, and what are its core beliefs?"
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/QwQ-32B	4	"What is the historical basis for the ""Birds Aren't Real"" theory, dating back to 1959?"
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/QwQ-32B	5	"How has the ""Birds Aren't Real"" movement specifically impacted the College of Charleston campus?"
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/QwQ-32B	6	What methods does the movement use to spread its message on campus, such as flyers and stickers?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/QwQ-32B	7	What is the reaction of the College of Charleston administration to this movement?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/QwQ-32B	8	Are there any experts or scholars cited in the article who comment on the movement?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/QwQ-32B	9	How does the movement gain traction among freshmen at the college?
+msmarco_v2.1_doc_54_1547893878	CUET	CUET-unsloth/QwQ-32B	10	What are the potential implications or consequences of believing in this movement?
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/QwQ-32B	1	**What are the main sources of information in this article about the pros and cons of moving to a cashless society?**
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/QwQ-32B	2	**Are the benefits and disadvantages listed in the article supported by data or expert opinions?**
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/QwQ-32B	3	**Does the article mention any specific countries or regions that have successfully implemented cashless systems, and what were the outcomes?**
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/QwQ-32B	4	**What are the potential risks associated with a cashless society, particularly regarding data privacy and security?**
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/QwQ-32B	5	**How does a cashless society address the needs of unbanked or underbanked populations?**
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/QwQ-32B	6	**What are the environmental impacts of moving away from physical currency?**
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/QwQ-32B	7	**Does the article discuss the potential for increased surveillance and loss of anonymity in financial transactions?**
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/QwQ-32B	8	**What role do governments and financial institutions play in promoting a cashless society, and what are their motivations?**
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/QwQ-32B	9	**Are there any historical precedents or studies that the article references to support the claims about crime rates and money laundering in a cashless society?**
+msmarco_v2.1_doc_54_304836636	CUET	CUET-unsloth/QwQ-32B	10	**Does the article explore the technological infrastructure required for a cashless society and the challenges in implementing it?**
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/QwQ-32B	1	What specific antitrust laws does Epic allege Apple has violated in its lawsuit?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/QwQ-32B	2	How does Epic's own payment system in Fortnite conflict with Apple's App Store guidelines?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/QwQ-32B	3	What evidence does Epic present to support its claim that the App Store is a monopoly?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/QwQ-32B	4	Are there any experts or industry analysts quoted in the article supporting Epic's position?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/QwQ-32B	5	Does the article mention any potential biases or conflicts of interest from Epic in filing this lawsuit?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/QwQ-32B	6	How has Apple responded to Epic's lawsuit in the article?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/QwQ-32B	7	Are there any counterarguments or defenses that Apple might use in this lawsuit, as mentioned in the article?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/QwQ-32B	8	Does the article discuss the potential implications of this lawsuit on other app developers and the app distribution market?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/QwQ-32B	9	Is there any information on how this lawsuit could affect the relationship between developers and Apple's App Store in the future?
+msmarco_v2.1_doc_55_248024230	CUET	CUET-unsloth/QwQ-32B	10	Does the article provide any historical context on previous disputes between Apple and developers over App Store policies?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/QwQ-32B	1	What is the source of the information about jackfruit's origin and cultivation?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/QwQ-32B	2	Are there any scientific studies cited to support the health benefits of jackfruit?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/QwQ-32B	3	Does the article mention any potential allergies or side effects related to consuming jackfruit?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/QwQ-32B	4	How is jackfruit typically prepared and consumed in different cultures?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/QwQ-32B	5	Is there a comparison between the nutritional value of jackfruit and other common fruits?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/QwQ-32B	6	Are there any specific populations for whom jackfruit is particularly beneficial or should be avoided?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/QwQ-32B	7	Does the article provide information on how to select and store jackfruit?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/QwQ-32B	8	Is there a mention of the sustainability or environmental impact of jackfruit cultivation?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/QwQ-32B	9	Are there any recipes or preparation tips included in the article?
+msmarco_v2.1_doc_57_933363597	CUET	CUET-unsloth/QwQ-32B	10	Does the article discuss the availability of jackfruit in different regions or seasons?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/QwQ-32B	1	What is the primary purpose of the article?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/QwQ-32B	2	What evidence is presented to support the author's claims?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/QwQ-32B	3	"How does the author define ""conspiracy theory"" in this context?"
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/QwQ-32B	4	"What is the significance of the ""Extraterrestrial Highway"" sign?"
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/QwQ-32B	5	What is the history behind the naming of Highway 375?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/QwQ-32B	6	Who is Bob Lazar, and why is he mentioned in the article?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/QwQ-32B	7	"What was the original intention behind the ""Storm Area 51"" Facebook event?"
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/QwQ-32B	8	How did officials in Nevada prepare for the event?
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/QwQ-32B	9	"What was the outcome of the ""attempt"" to ""breach"" Area 51?"
+msmarco_v2.1_doc_58_748655897	CUET	CUET-unsloth/QwQ-32B	10	What is the author's stance on the existence of aliens and UFOs at Area 51?
